@@ -8,7 +8,7 @@
 
 ## Скачать · Download
 
-**[Последняя версия для Windows → Releases](../../releases/latest)** · сайт: [ai-dj.ysamussenko.workers.dev](https://ai-dj.ysamussenko.workers.dev)
+**[Последняя версия для Windows → Releases](../../releases/latest)** · сайт: [ai-dj.ysamussenko.workers.dev](https://ai-dj.ysamussenko.workers.dev) · зеркало: [ysamussenko-cell.github.io/ai-dj](https://ysamussenko-cell.github.io/ai-dj/)
 
 Бесплатно. Windows. Обновления ставятся сами.
 
