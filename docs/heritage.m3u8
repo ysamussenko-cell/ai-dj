@@ -1014,6 +1014,9 @@ https://www.youtube.com/watch?v=1i0i5lG6Ojc
 #EXTINF:-1,Bon Jovi - Livin' on a Prayer
 #EXTDJ:{"artist": "Bon Jovi", "title": "Livin' on a Prayer"}
 ytsearch1:Bon Jovi - Livin' on a Prayer
+#EXTINF:-1,Guns N' Roses - Sweet Child o' Mine
+#EXTDJ:{"artist": "Guns N' Roses", "title": "Sweet Child o' Mine"}
+ytsearch1:Guns N' Roses - Sweet Child o' Mine
 #EXTINF:-1,Bon Jovi - It's My Life
 #EXTDJ:{"artist": "Bon Jovi", "title": "It's My Life"}
 ytsearch1:Bon Jovi - It's My Life
@@ -1105,132 +1108,129 @@ ytsearch1:Yello - Oh Yeah
 #EXTDJ:{"artist": "Gary Numan", "title": "Cars"}
 ytsearch1:Gary Numan - Cars
 # --- Метал ---
-#EXTINF:-1,Metallica - Enter Sandman
-#EXTDJ:{"artist": "Metallica", "title": "Enter Sandman"}
-ytsearch1:Metallica - Enter Sandman
-#EXTINF:-1,Metallica - Nothing Else Matters
-#EXTDJ:{"artist": "Metallica", "title": "Nothing Else Matters"}
-ytsearch1:Metallica - Nothing Else Matters
 #EXTINF:-1,Metallica - Master of Puppets
 #EXTDJ:{"artist": "Metallica", "title": "Master of Puppets"}
 ytsearch1:Metallica - Master of Puppets
-#EXTINF:-1,Metallica - One
-#EXTDJ:{"artist": "Metallica", "title": "One"}
-ytsearch1:Metallica - One
-#EXTINF:-1,Iron Maiden - The Trooper
-#EXTDJ:{"artist": "Iron Maiden", "title": "The Trooper"}
-ytsearch1:Iron Maiden - The Trooper
-#EXTINF:-1,Iron Maiden - Fear of the Dark
-#EXTDJ:{"artist": "Iron Maiden", "title": "Fear of the Dark"}
-ytsearch1:Iron Maiden - Fear of the Dark
-#EXTINF:-1,Judas Priest - Breaking the Law
-#EXTDJ:{"artist": "Judas Priest", "title": "Breaking the Law"}
-ytsearch1:Judas Priest - Breaking the Law
 #EXTINF:-1,Motörhead - Ace of Spades
 #EXTDJ:{"artist": "Motörhead", "title": "Ace of Spades"}
 ytsearch1:Motörhead - Ace of Spades
-#EXTINF:-1,Megadeth - Symphony of Destruction
-#EXTDJ:{"artist": "Megadeth", "title": "Symphony of Destruction"}
-ytsearch1:Megadeth - Symphony of Destruction
-#EXTINF:-1,Slayer - Raining Blood
-#EXTDJ:{"artist": "Slayer", "title": "Raining Blood"}
-ytsearch1:Slayer - Raining Blood
-#EXTINF:-1,Pantera - Walk
-#EXTDJ:{"artist": "Pantera", "title": "Walk"}
-ytsearch1:Pantera - Walk
-#EXTINF:-1,Sepultura - Roots Bloody Roots
-#EXTDJ:{"artist": "Sepultura", "title": "Roots Bloody Roots"}
-ytsearch1:Sepultura - Roots Bloody Roots
 #EXTINF:-1,Ozzy Osbourne - Crazy Train
 #EXTDJ:{"artist": "Ozzy Osbourne", "title": "Crazy Train"}
 ytsearch1:Ozzy Osbourne - Crazy Train
+#EXTINF:-1,Black Sabbath - War Pigs
+#EXTDJ:{"artist": "Black Sabbath", "title": "War Pigs"}
+ytsearch1:Black Sabbath - War Pigs
+#EXTINF:-1,Black Sabbath - Black Sabbath
+#EXTDJ:{"artist": "Black Sabbath", "title": "Black Sabbath"}
+ytsearch1:Black Sabbath - Black Sabbath
+#EXTINF:-1,Slayer - Angel of Death
+#EXTDJ:{"artist": "Slayer", "title": "Angel of Death"}
+ytsearch1:Slayer - Angel of Death
+#EXTINF:-1,Iron Maiden - Hallowed Be Thy Name
+#EXTDJ:{"artist": "Iron Maiden", "title": "Hallowed Be Thy Name"}
+ytsearch1:Iron Maiden - Hallowed Be Thy Name
+#EXTINF:-1,Metallica - One
+#EXTDJ:{"artist": "Metallica", "title": "One"}
+ytsearch1:Metallica - One
+#EXTINF:-1,Slayer - Raining Blood
+#EXTDJ:{"artist": "Slayer", "title": "Raining Blood"}
+ytsearch1:Slayer - Raining Blood
+#EXTINF:-1,Iron Maiden - Run to the Hills
+#EXTDJ:{"artist": "Iron Maiden", "title": "Run to the Hills"}
+ytsearch1:Iron Maiden - Run to the Hills
 #EXTINF:-1,Dio - Holy Diver
 #EXTDJ:{"artist": "Dio", "title": "Holy Diver"}
 ytsearch1:Dio - Holy Diver
-#EXTINF:-1,Manowar - Warriors of the World United
-#EXTDJ:{"artist": "Manowar", "title": "Warriors of the World United"}
-ytsearch1:Manowar - Warriors of the World United
-#EXTINF:-1,Helloween - I Want Out
-#EXTDJ:{"artist": "Helloween", "title": "I Want Out"}
-ytsearch1:Helloween - I Want Out
-#EXTINF:-1,Nightwish - Nemo
-#EXTDJ:{"artist": "Nightwish", "title": "Nemo"}
-ytsearch1:Nightwish - Nemo
+#EXTINF:-1,Megadeth - Holy Wars... The Punishment Due
+#EXTDJ:{"artist": "Megadeth", "title": "Holy Wars... The Punishment Due"}
+ytsearch1:Megadeth - Holy Wars... The Punishment Due
+#EXTINF:-1,Iron Maiden - The Trooper
+#EXTDJ:{"artist": "Iron Maiden", "title": "The Trooper"}
+ytsearch1:Iron Maiden - The Trooper
+#EXTINF:-1,Megadeth - Peace Sells
+#EXTDJ:{"artist": "Megadeth", "title": "Peace Sells"}
+ytsearch1:Megadeth - Peace Sells
+#EXTINF:-1,Rainbow - Stargazer
+#EXTDJ:{"artist": "Rainbow", "title": "Stargazer"}
+ytsearch1:Rainbow - Stargazer
+#EXTINF:-1,Mötley Crüe - Shout at the Devil
+#EXTDJ:{"artist": "Mötley Crüe", "title": "Shout at the Devil"}
+ytsearch1:Mötley Crüe - Shout at the Devil
+#EXTINF:-1,Metallica - Fade to Black
+#EXTDJ:{"artist": "Metallica", "title": "Fade to Black"}
+ytsearch1:Metallica - Fade to Black
+#EXTINF:-1,Judas Priest - Victim of Changes
+#EXTDJ:{"artist": "Judas Priest", "title": "Victim of Changes"}
+ytsearch1:Judas Priest - Victim of Changes
+#EXTINF:-1,Judas Priest - Breaking the Law
+#EXTDJ:{"artist": "Judas Priest", "title": "Breaking the Law"}
+ytsearch1:Judas Priest - Breaking the Law
+#EXTINF:-1,Metallica - Enter Sandman
+#EXTDJ:{"artist": "Metallica", "title": "Enter Sandman"}
+ytsearch1:Metallica - Enter Sandman
+#EXTINF:-1,Slayer - South of Heaven
+#EXTDJ:{"artist": "Slayer", "title": "South of Heaven"}
+ytsearch1:Slayer - South of Heaven
+#EXTINF:-1,Dio - Rainbow in the Dark
+#EXTDJ:{"artist": "Dio", "title": "Rainbow in the Dark"}
+ytsearch1:Dio - Rainbow in the Dark
+#EXTINF:-1,Pantera - Walk
+#EXTDJ:{"artist": "Pantera", "title": "Walk"}
+ytsearch1:Pantera - Walk
+#EXTINF:-1,Led Zeppelin - Immigrant Song
+#EXTDJ:{"artist": "Led Zeppelin", "title": "Immigrant Song"}
+ytsearch1:Led Zeppelin - Immigrant Song
 #EXTINF:-1,Accept - Balls to the Wall
 #EXTDJ:{"artist": "Accept", "title": "Balls to the Wall"}
 ytsearch1:Accept - Balls to the Wall
-#EXTINF:-1,Guns N' Roses - Sweet Child o' Mine
-#EXTDJ:{"artist": "Guns N' Roses", "title": "Sweet Child o' Mine"}
-ytsearch1:Guns N' Roses - Sweet Child o' Mine
-#EXTINF:-1,Guns N' Roses - November Rain
-#EXTDJ:{"artist": "Guns N' Roses", "title": "November Rain"}
-ytsearch1:Guns N' Roses - November Rain
+#EXTINF:-1,Iron Maiden - The Number of the Beast
+#EXTDJ:{"artist": "Iron Maiden", "title": "The Number of the Beast"}
+ytsearch1:Iron Maiden - The Number of the Beast
+#EXTINF:-1,Living Colour - Cult of Personality
+#EXTDJ:{"artist": "Living Colour", "title": "Cult of Personality"}
+ytsearch1:Living Colour - Cult of Personality
+#EXTINF:-1,Judas Priest - Painkiller
+#EXTDJ:{"artist": "Judas Priest", "title": "Painkiller"}
+ytsearch1:Judas Priest - Painkiller
+#EXTINF:-1,Deep Purple - Highway Star
+#EXTDJ:{"artist": "Deep Purple", "title": "Highway Star"}
+ytsearch1:Deep Purple - Highway Star
+#EXTINF:-1,Van Halen - Runnin' with the Devil
+#EXTDJ:{"artist": "Van Halen", "title": "Runnin' with the Devil"}
+ytsearch1:Van Halen - Runnin' with the Devil
+#EXTINF:-1,Judas Priest - Electric Eye
+#EXTDJ:{"artist": "Judas Priest", "title": "Electric Eye"}
+ytsearch1:Judas Priest - Electric Eye
+#EXTINF:-1,Ratt - Round and Round
+#EXTDJ:{"artist": "Ratt", "title": "Round and Round"}
+ytsearch1:Ratt - Round and Round
 #EXTINF:-1,Guns N' Roses - Welcome to the Jungle
 #EXTDJ:{"artist": "Guns N' Roses", "title": "Welcome to the Jungle"}
 ytsearch1:Guns N' Roses - Welcome to the Jungle
-#EXTINF:-1,Guns N' Roses - Don't Cry
-#EXTDJ:{"artist": "Guns N' Roses", "title": "Don't Cry"}
-ytsearch1:Guns N' Roses - Don't Cry
-#EXTINF:-1,Whitesnake - Is This Love
-#EXTDJ:{"artist": "Whitesnake", "title": "Is This Love"}
-ytsearch1:Whitesnake - Is This Love
-#EXTINF:-1,Rammstein - Du hast
-#EXTDJ:{"artist": "Rammstein", "title": "Du hast"}
-ytsearch1:Rammstein - Du hast
-#EXTINF:-1,Rammstein - Sonne
-#EXTDJ:{"artist": "Rammstein", "title": "Sonne"}
-ytsearch1:Rammstein - Sonne
+#EXTINF:-1,Anthrax - Caught in a Mosh
+#EXTDJ:{"artist": "Anthrax", "title": "Caught in a Mosh"}
+ytsearch1:Anthrax - Caught in a Mosh
+#EXTINF:-1,Diamond Head - Am I Evil?
+#EXTDJ:{"artist": "Diamond Head", "title": "Am I Evil?"}
+ytsearch1:Diamond Head - Am I Evil?
+#EXTINF:-1,Scorpions - Rock You Like a Hurricane
+#EXTDJ:{"artist": "Scorpions", "title": "Rock You Like a Hurricane"}
+ytsearch1:Scorpions - Rock You Like a Hurricane
+#EXTINF:-1,Ozzy Osbourne - Bark at the Moon
+#EXTDJ:{"artist": "Ozzy Osbourne", "title": "Bark at the Moon"}
+ytsearch1:Ozzy Osbourne - Bark at the Moon
+#EXTINF:-1,Danzig - Mother
+#EXTDJ:{"artist": "Danzig", "title": "Mother"}
+ytsearch1:Danzig - Mother
+#EXTINF:-1,Lita Ford - Kiss Me Deadly
+#EXTDJ:{"artist": "Lita Ford", "title": "Kiss Me Deadly"}
+ytsearch1:Lita Ford - Kiss Me Deadly
+#EXTINF:-1,Accept - Fast as a Shark
+#EXTDJ:{"artist": "Accept", "title": "Fast as a Shark"}
+ytsearch1:Accept - Fast as a Shark
 #EXTINF:-1,System of a Down - Chop Suey!
 #EXTDJ:{"artist": "System of a Down", "title": "Chop Suey!"}
 ytsearch1:System of a Down - Chop Suey!
-#EXTINF:-1,System of a Down - Toxicity
-#EXTDJ:{"artist": "System of a Down", "title": "Toxicity"}
-ytsearch1:System of a Down - Toxicity
-#EXTINF:-1,Slipknot - Duality
-#EXTDJ:{"artist": "Slipknot", "title": "Duality"}
-ytsearch1:Slipknot - Duality
-#EXTINF:-1,Korn - Freak on a Leash
-#EXTDJ:{"artist": "Korn", "title": "Freak on a Leash"}
-ytsearch1:Korn - Freak on a Leash
-#EXTINF:-1,Tool - Schism
-#EXTDJ:{"artist": "Tool", "title": "Schism"}
-ytsearch1:Tool - Schism
-#EXTINF:-1,Limp Bizkit - Rollin' (Air Raid Vehicle)
-#EXTDJ:{"artist": "Limp Bizkit", "title": "Rollin' (Air Raid Vehicle)"}
-ytsearch1:Limp Bizkit - Rollin' (Air Raid Vehicle)
-#EXTINF:-1,Linkin Park - In the End
-#EXTDJ:{"artist": "Linkin Park", "title": "In the End"}
-ytsearch1:Linkin Park - In the End
-#EXTINF:-1,Linkin Park - Numb
-#EXTDJ:{"artist": "Linkin Park", "title": "Numb"}
-ytsearch1:Linkin Park - Numb
-#EXTINF:-1,Papa Roach - Last Resort
-#EXTDJ:{"artist": "Papa Roach", "title": "Last Resort"}
-ytsearch1:Papa Roach - Last Resort
-#EXTINF:-1,Disturbed - Down with the Sickness
-#EXTDJ:{"artist": "Disturbed", "title": "Down with the Sickness"}
-ytsearch1:Disturbed - Down with the Sickness
-#EXTINF:-1,Disturbed - The Sound of Silence
-#EXTDJ:{"artist": "Disturbed", "title": "The Sound of Silence"}
-ytsearch1:Disturbed - The Sound of Silence
-#EXTINF:-1,Rage Against the Machine - Killing in the Name
-#EXTDJ:{"artist": "Rage Against the Machine", "title": "Killing in the Name"}
-ytsearch1:Rage Against the Machine - Killing in the Name
-#EXTINF:-1,Marilyn Manson - The Beautiful People
-#EXTDJ:{"artist": "Marilyn Manson", "title": "The Beautiful People"}
-ytsearch1:Marilyn Manson - The Beautiful People
-#EXTINF:-1,Nine Inch Nails - Closer
-#EXTDJ:{"artist": "Nine Inch Nails", "title": "Closer"}
-ytsearch1:Nine Inch Nails - Closer
-#EXTINF:-1,Nine Inch Nails - Hurt
-#EXTDJ:{"artist": "Nine Inch Nails", "title": "Hurt"}
-ytsearch1:Nine Inch Nails - Hurt
-#EXTINF:-1,Evanescence - Bring Me to Life
-#EXTDJ:{"artist": "Evanescence", "title": "Bring Me to Life"}
-ytsearch1:Evanescence - Bring Me to Life
-#EXTINF:-1,Evanescence - My Immortal
-#EXTDJ:{"artist": "Evanescence", "title": "My Immortal"}
-ytsearch1:Evanescence - My Immortal
 # --- 90-е и 2000-е: гранж, бритпоп, альтернатива ---
 #EXTINF:-1,Nirvana - Smells Like Teen Spirit
 #EXTDJ:{"artist": "Nirvana", "title": "Smells Like Teen Spirit"}
@@ -2409,183 +2409,183 @@ ytsearch1:Большой детский хор - Прекрасное далёк
 #EXTINF:-1,Кино - Группа крови
 #EXTDJ:{"artist": "Кино", "title": "Группа крови"}
 ytsearch1:Кино - Группа крови
-#EXTINF:-1,Кино - Кукушка
-#EXTDJ:{"artist": "Кино", "title": "Кукушка"}
-ytsearch1:Кино - Кукушка
-#EXTINF:-1,Кино - Звезда по имени Солнце
-#EXTDJ:{"artist": "Кино", "title": "Звезда по имени Солнце"}
-ytsearch1:Кино - Звезда по имени Солнце
-#EXTINF:-1,Кино - Пачка сигарет
-#EXTDJ:{"artist": "Кино", "title": "Пачка сигарет"}
-ytsearch1:Кино - Пачка сигарет
-#EXTINF:-1,Кино - Перемен
-#EXTDJ:{"artist": "Кино", "title": "Перемен"}
-ytsearch1:Кино - Перемен
-#EXTINF:-1,Аквариум - Город золотой
-#EXTDJ:{"artist": "Аквариум", "title": "Город золотой"}
-ytsearch1:Аквариум - Город золотой
 #EXTINF:-1,Наутилус Помпилиус - Я хочу быть с тобой
 #EXTDJ:{"artist": "Наутилус Помпилиус", "title": "Я хочу быть с тобой"}
 ytsearch1:Наутилус Помпилиус - Я хочу быть с тобой
-#EXTINF:-1,Наутилус Помпилиус - Прогулки по воде
-#EXTDJ:{"artist": "Наутилус Помпилиус", "title": "Прогулки по воде"}
-ytsearch1:Наутилус Помпилиус - Прогулки по воде
-#EXTINF:-1,Наутилус Помпилиус - Скованные одной цепью
-#EXTDJ:{"artist": "Наутилус Помпилиус", "title": "Скованные одной цепью"}
-ytsearch1:Наутилус Помпилиус - Скованные одной цепью
-#EXTINF:-1,Алиса - Красное на чёрном
-#EXTDJ:{"artist": "Алиса", "title": "Красное на чёрном"}
-ytsearch1:Алиса - Красное на чёрном
+#EXTINF:-1,Кино - Звезда по имени Солнце
+#EXTDJ:{"artist": "Кино", "title": "Звезда по имени Солнце"}
+ytsearch1:Кино - Звезда по имени Солнце
 #EXTINF:-1,ДДТ - Что такое осень
 #EXTDJ:{"artist": "ДДТ", "title": "Что такое осень"}
 ytsearch1:ДДТ - Что такое осень
-#EXTINF:-1,ДДТ - Это всё
-#EXTDJ:{"artist": "ДДТ", "title": "Это всё"}
-ytsearch1:ДДТ - Это всё
-#EXTINF:-1,ДДТ - Родина
-#EXTDJ:{"artist": "ДДТ", "title": "Родина"}
-ytsearch1:ДДТ - Родина
-#EXTINF:-1,Чайф - Не спеши
-#EXTDJ:{"artist": "Чайф", "title": "Не спеши"}
-ytsearch1:Чайф - Не спеши
-#EXTINF:-1,Чиж & Co - О любви
-#EXTDJ:{"artist": "Чиж & Co", "title": "О любви"}
-ytsearch1:Чиж & Co - О любви
-#EXTINF:-1,Чиж & Co - Вечная молодость
-#EXTDJ:{"artist": "Чиж & Co", "title": "Вечная молодость"}
-ytsearch1:Чиж & Co - Вечная молодость
-#EXTINF:-1,Машина времени - Поворот
-#EXTDJ:{"artist": "Машина времени", "title": "Поворот"}
-ytsearch1:Машина времени - Поворот
-#EXTINF:-1,Воскресение - Кто виноват
-#EXTDJ:{"artist": "Воскресение", "title": "Кто виноват"}
-ytsearch1:Воскресение - Кто виноват
-#EXTINF:-1,Крематорий - Мусорный ветер
-#EXTDJ:{"artist": "Крематорий", "title": "Мусорный ветер"}
-ytsearch1:Крематорий - Мусорный ветер
 #EXTINF:-1,Агата Кристи - Как на войне
 #EXTDJ:{"artist": "Агата Кристи", "title": "Как на войне"}
 ytsearch1:Агата Кристи - Как на войне
-#EXTINF:-1,Агата Кристи - Сказочная тайга
-#EXTDJ:{"artist": "Агата Кристи", "title": "Сказочная тайга"}
-ytsearch1:Агата Кристи - Сказочная тайга
 #EXTINF:-1,Сплин - Выхода нет
 #EXTDJ:{"artist": "Сплин", "title": "Выхода нет"}
 ytsearch1:Сплин - Выхода нет
-#EXTINF:-1,Сплин - Моё сердце
-#EXTDJ:{"artist": "Сплин", "title": "Моё сердце"}
-ytsearch1:Сплин - Моё сердце
-#EXTINF:-1,Би-2 - Полковнику никто не пишет
-#EXTDJ:{"artist": "Би-2", "title": "Полковнику никто не пишет"}
-ytsearch1:Би-2 - Полковнику никто не пишет
-#EXTINF:-1,Би-2 - Варвара
-#EXTDJ:{"artist": "Би-2", "title": "Варвара"}
-ytsearch1:Би-2 - Варвара
-#EXTINF:-1,Мумий Тролль - Владивосток 2000
-#EXTDJ:{"artist": "Мумий Тролль", "title": "Владивосток 2000"}
-ytsearch1:Мумий Тролль - Владивосток 2000
-#EXTINF:-1,Мумий Тролль - Утекай
-#EXTDJ:{"artist": "Мумий Тролль", "title": "Утекай"}
-ytsearch1:Мумий Тролль - Утекай
-#EXTINF:-1,Земфира - Искала
-#EXTDJ:{"artist": "Земфира", "title": "Искала"}
-ytsearch1:Земфира - Искала
-#EXTINF:-1,Земфира - Хочешь?
-#EXTDJ:{"artist": "Земфира", "title": "Хочешь?"}
-ytsearch1:Земфира - Хочешь?
-#EXTINF:-1,Ночные Снайперы - 31-я весна
-#EXTDJ:{"artist": "Ночные Снайперы", "title": "31-я весна"}
-ytsearch1:Ночные Снайперы - 31-я весна
-#EXTINF:-1,Король и Шут - Кукла колдуна
-#EXTDJ:{"artist": "Король и Шут", "title": "Кукла колдуна"}
-ytsearch1:Король и Шут - Кукла колдуна
+#EXTINF:-1,Алиса - Трасса Е95
+#EXTDJ:{"artist": "Алиса", "title": "Трасса Е95"}
+ytsearch1:Алиса - Трасса Е95
+#EXTINF:-1,Чайф - Ой-йо
+#EXTDJ:{"artist": "Чайф", "title": "Ой-йо"}
+ytsearch1:Чайф - Ой-йо
+#EXTINF:-1,Кино - Перемен
+#EXTDJ:{"artist": "Кино", "title": "Перемен"}
+ytsearch1:Кино - Перемен
+#EXTINF:-1,Кино - Пачка сигарет
+#EXTDJ:{"artist": "Кино", "title": "Пачка сигарет"}
+ytsearch1:Кино - Пачка сигарет
 #EXTINF:-1,Король и Шут - Лесник
 #EXTDJ:{"artist": "Король и Шут", "title": "Лесник"}
 ytsearch1:Король и Шут - Лесник
-#EXTINF:-1,Ария - Беспечный ангел
-#EXTDJ:{"artist": "Ария", "title": "Беспечный ангел"}
-ytsearch1:Ария - Беспечный ангел
-#EXTINF:-1,Ария - Штиль
-#EXTDJ:{"artist": "Ария", "title": "Штиль"}
-ytsearch1:Ария - Штиль
-#EXTINF:-1,Сектор Газа - Лирика
-#EXTDJ:{"artist": "Сектор Газа", "title": "Лирика"}
-ytsearch1:Сектор Газа - Лирика
-#EXTINF:-1,Гражданская Оборона - Всё идёт по плану
-#EXTDJ:{"artist": "Гражданская Оборона", "title": "Всё идёт по плану"}
-ytsearch1:Гражданская Оборона - Всё идёт по плану
-#EXTINF:-1,Гражданская Оборона - Моя оборона
-#EXTDJ:{"artist": "Гражданская Оборона", "title": "Моя оборона"}
-ytsearch1:Гражданская Оборона - Моя оборона
-#EXTINF:-1,Янка Дягилева - От большого ума
-#EXTDJ:{"artist": "Янка Дягилева", "title": "От большого ума"}
-ytsearch1:Янка Дягилева - От большого ума
-#EXTINF:-1,Зоопарк - Пригородный блюз
-#EXTDJ:{"artist": "Зоопарк", "title": "Пригородный блюз"}
-ytsearch1:Зоопарк - Пригородный блюз
-#EXTINF:-1,Пикник - Иероглиф
-#EXTDJ:{"artist": "Пикник", "title": "Иероглиф"}
-ytsearch1:Пикник - Иероглиф
+#EXTINF:-1,Аквариум - Город золотой
+#EXTDJ:{"artist": "Аквариум", "title": "Город золотой"}
+ytsearch1:Аквариум - Город золотой
+#EXTINF:-1,Машина времени - Поворот
+#EXTDJ:{"artist": "Машина времени", "title": "Поворот"}
+ytsearch1:Машина времени - Поворот
+#EXTINF:-1,Наутилус Помпилиус - Последнее письмо
+#EXTDJ:{"artist": "Наутилус Помпилиус", "title": "Последнее письмо"}
+ytsearch1:Наутилус Помпилиус - Последнее письмо
+#EXTINF:-1,Неприкасаемые - Напои меня водой
+#EXTDJ:{"artist": "Неприкасаемые", "title": "Напои меня водой"}
+ytsearch1:Неприкасаемые - Напои меня водой
 #EXTINF:-1,Кипелов - Я свободен
 #EXTDJ:{"artist": "Кипелов", "title": "Я свободен"}
 ytsearch1:Кипелов - Я свободен
-#EXTINF:-1,Ленинград - Экспонат
-#EXTDJ:{"artist": "Ленинград", "title": "Экспонат"}
-ytsearch1:Ленинград - Экспонат
-#EXTINF:-1,Ляпис Трубецкой - Воины света
-#EXTDJ:{"artist": "Ляпис Трубецкой", "title": "Воины света"}
-ytsearch1:Ляпис Трубецкой - Воины света
-#EXTINF:-1,Lumen - Гореть
-#EXTDJ:{"artist": "Lumen", "title": "Гореть"}
-ytsearch1:Lumen - Гореть
-#EXTINF:-1,Смысловые галлюцинации - Вечно молодой
-#EXTDJ:{"artist": "Смысловые галлюцинации", "title": "Вечно молодой"}
-ytsearch1:Смысловые галлюцинации - Вечно молодой
-#EXTINF:-1,Танцы Минус - Половинка
-#EXTDJ:{"artist": "Танцы Минус", "title": "Половинка"}
-ytsearch1:Танцы Минус - Половинка
-#EXTINF:-1,Браво - Ленинградский рок-н-ролл
-#EXTDJ:{"artist": "Браво", "title": "Ленинградский рок-н-ролл"}
-ytsearch1:Браво - Ленинградский рок-н-ролл
+#EXTINF:-1,Браво - Дорога в облака
+#EXTDJ:{"artist": "Браво", "title": "Дорога в облака"}
+ytsearch1:Браво - Дорога в облака
+#EXTINF:-1,Мельница - Дорога сна
+#EXTDJ:{"artist": "Мельница", "title": "Дорога сна"}
+ytsearch1:Мельница - Дорога сна
+#EXTINF:-1,Воскресение - Кто виноват
+#EXTDJ:{"artist": "Воскресение", "title": "Кто виноват"}
+ytsearch1:Воскресение - Кто виноват
+#EXTINF:-1,Алиса - Красное на чёрном
+#EXTDJ:{"artist": "Алиса", "title": "Красное на чёрном"}
+ytsearch1:Алиса - Красное на чёрном
+#EXTINF:-1,ДДТ - В последнюю осень
+#EXTDJ:{"artist": "ДДТ", "title": "В последнюю осень"}
+ytsearch1:ДДТ - В последнюю осень
+#EXTINF:-1,Ария - Беспечный ангел
+#EXTDJ:{"artist": "Ария", "title": "Беспечный ангел"}
+ytsearch1:Ария - Беспечный ангел
+#EXTINF:-1,Машина времени - Марионетки
+#EXTDJ:{"artist": "Машина времени", "title": "Марионетки"}
+ytsearch1:Машина времени - Марионетки
+#EXTINF:-1,Крематорий - Безобразная Эльза
+#EXTDJ:{"artist": "Крематорий", "title": "Безобразная Эльза"}
+ytsearch1:Крематорий - Безобразная Эльза
+#EXTINF:-1,Жанна Агузарова - Чудесная страна
+#EXTDJ:{"artist": "Жанна Агузарова", "title": "Чудесная страна"}
+ytsearch1:Жанна Агузарова - Чудесная страна
+#EXTINF:-1,Земфира - Хочешь?
+#EXTDJ:{"artist": "Земфира", "title": "Хочешь?"}
+ytsearch1:Земфира - Хочешь?
+#EXTINF:-1,Воскресение - Ночная птица
+#EXTDJ:{"artist": "Воскресение", "title": "Ночная птица"}
+ytsearch1:Воскресение - Ночная птица
+#EXTINF:-1,Оргия Праведников - Наша Родина — СССР
+#EXTDJ:{"artist": "Оргия Праведников", "title": "Наша Родина — СССР"}
+ytsearch1:Оргия Праведников - Наша Родина — СССР
+#EXTINF:-1,Аквариум - Поезд в огне
+#EXTDJ:{"artist": "Аквариум", "title": "Поезд в огне"}
+ytsearch1:Аквариум - Поезд в огне
+#EXTINF:-1,Неприкасаемые - Белый колпак
+#EXTDJ:{"artist": "Неприкасаемые", "title": "Белый колпак"}
+ytsearch1:Неприкасаемые - Белый колпак
+#EXTINF:-1,Машина времени - Костёр
+#EXTDJ:{"artist": "Машина времени", "title": "Костёр"}
+ytsearch1:Машина времени - Костёр
+#EXTINF:-1,Земфира - Ариведерчи
+#EXTDJ:{"artist": "Земфира", "title": "Ариведерчи"}
+ytsearch1:Земфира - Ариведерчи
+#EXTINF:-1,Louna - Мама
+#EXTDJ:{"artist": "Louna", "title": "Мама"}
+ytsearch1:Louna - Мама
+#EXTINF:-1,ДДТ - Не стреляй
+#EXTDJ:{"artist": "ДДТ", "title": "Не стреляй"}
+ytsearch1:ДДТ - Не стреляй
+#EXTINF:-1,Агата Кристи - Сказочная тайга
+#EXTDJ:{"artist": "Агата Кристи", "title": "Сказочная тайга"}
+ytsearch1:Агата Кристи - Сказочная тайга
+#EXTINF:-1,Lumen - Сид и Нэнси
+#EXTDJ:{"artist": "Lumen", "title": "Сид и Нэнси"}
+ytsearch1:Lumen - Сид и Нэнси
+#EXTINF:-1,Браво - Вася
+#EXTDJ:{"artist": "Браво", "title": "Вася"}
+ytsearch1:Браво - Вася
+#EXTINF:-1,Сплин - Орбит без сахара
+#EXTDJ:{"artist": "Сплин", "title": "Орбит без сахара"}
+ytsearch1:Сплин - Орбит без сахара
 #EXTINF:-1,Секрет - Привет
 #EXTDJ:{"artist": "Секрет", "title": "Привет"}
 ytsearch1:Секрет - Привет
-#EXTINF:-1,Гарик Сукачёв - Моя бабушка курит трубку
-#EXTDJ:{"artist": "Гарик Сукачёв", "title": "Моя бабушка курит трубку"}
-ytsearch1:Гарик Сукачёв - Моя бабушка курит трубку
-#EXTINF:-1,Мельница - Ночная кобыла
-#EXTDJ:{"artist": "Мельница", "title": "Ночная кобыла"}
-ytsearch1:Мельница - Ночная кобыла
-#EXTINF:-1,Уматурман - Прасковья
-#EXTDJ:{"artist": "Уматурман", "title": "Прасковья"}
-ytsearch1:Уматурман - Прасковья
-#EXTINF:-1,Звери - Районы-кварталы
-#EXTDJ:{"artist": "Звери", "title": "Районы-кварталы"}
-ytsearch1:Звери - Районы-кварталы
-#EXTINF:-1,Дельфин - 520
-#EXTDJ:{"artist": "Дельфин", "title": "520"}
-ytsearch1:Дельфин - 520
-#EXTINF:-1,5'nizza - Солдат
-#EXTDJ:{"artist": "5'nizza", "title": "Солдат"}
-ytsearch1:5'nizza - Солдат
-#EXTINF:-1,Океан Ельзи - Без бою
-#EXTDJ:{"artist": "Океан Ельзи", "title": "Без бою"}
-ytsearch1:Океан Ельзи - Без бою
-#EXTINF:-1,Океан Ельзи - Обійми
-#EXTDJ:{"artist": "Океан Ельзи", "title": "Обійми"}
-ytsearch1:Океан Ельзи - Обійми
-#EXTINF:-1,Вопли Видоплясова - Весна
-#EXTDJ:{"artist": "Вопли Видоплясова", "title": "Весна"}
-ytsearch1:Вопли Видоплясова - Весна
-#EXTINF:-1,Скрябін - Люди як кораблі
-#EXTDJ:{"artist": "Скрябін", "title": "Люди як кораблі"}
-ytsearch1:Скрябін - Люди як кораблі
-#EXTINF:-1,Бумбокс - Вахтёрам
-#EXTDJ:{"artist": "Бумбокс", "title": "Вахтёрам"}
-ytsearch1:Бумбокс - Вахтёрам
-#EXTINF:-1,Zdob și Zdub - Видели ночь
-#EXTDJ:{"artist": "Zdob și Zdub", "title": "Видели ночь"}
-ytsearch1:Zdob și Zdub - Видели ночь
+#EXTINF:-1,Ночные Снайперы - 31-я весна
+#EXTDJ:{"artist": "Ночные Снайперы", "title": "31-я весна"}
+ytsearch1:Ночные Снайперы - 31-я весна
+#EXTINF:-1,Би-2 - Полковнику никто не пишет
+#EXTDJ:{"artist": "Би-2", "title": "Полковнику никто не пишет"}
+ytsearch1:Би-2 - Полковнику никто не пишет
+#EXTINF:-1,Алиса - Всё это рок-н-ролл
+#EXTDJ:{"artist": "Алиса", "title": "Всё это рок-н-ролл"}
+ytsearch1:Алиса - Всё это рок-н-ролл
+#EXTINF:-1,Мумий Тролль - Утекай
+#EXTDJ:{"artist": "Мумий Тролль", "title": "Утекай"}
+ytsearch1:Мумий Тролль - Утекай
+#EXTINF:-1,Константин Никольский - Музыкант
+#EXTDJ:{"artist": "Константин Никольский", "title": "Музыкант"}
+ytsearch1:Константин Никольский - Музыкант
+#EXTINF:-1,ДДТ - Это всё
+#EXTDJ:{"artist": "ДДТ", "title": "Это всё"}
+ytsearch1:ДДТ - Это всё
+#EXTINF:-1,Машина времени - Синяя птица
+#EXTDJ:{"artist": "Машина времени", "title": "Синяя птица"}
+ytsearch1:Машина времени - Синяя птица
+#EXTINF:-1,Агата Кристи - Опиум для никого
+#EXTDJ:{"artist": "Агата Кристи", "title": "Опиум для никого"}
+ytsearch1:Агата Кристи - Опиум для никого
+#EXTINF:-1,Мельница - Волкодав
+#EXTDJ:{"artist": "Мельница", "title": "Волкодав"}
+ytsearch1:Мельница - Волкодав
+#EXTINF:-1,Браво - Московский бит
+#EXTDJ:{"artist": "Браво", "title": "Московский бит"}
+ytsearch1:Браво - Московский бит
+#EXTINF:-1,Крематорий - Мусорный ветер
+#EXTDJ:{"artist": "Крематорий", "title": "Мусорный ветер"}
+ytsearch1:Крематорий - Мусорный ветер
+#EXTINF:-1,Король и Шут - Прыгну со скалы
+#EXTDJ:{"artist": "Король и Шут", "title": "Прыгну со скалы"}
+ytsearch1:Король и Шут - Прыгну со скалы
+#EXTINF:-1,Моральный кодекс - До свидания, мама
+#EXTDJ:{"artist": "Моральный кодекс", "title": "До свидания, мама"}
+ytsearch1:Моральный кодекс - До свидания, мама
+#EXTINF:-1,Louna - Сделай громче
+#EXTDJ:{"artist": "Louna", "title": "Сделай громче"}
+ytsearch1:Louna - Сделай громче
+#EXTINF:-1,Чиж & Co - Перекрёсток
+#EXTDJ:{"artist": "Чиж & Co", "title": "Перекрёсток"}
+ytsearch1:Чиж & Co - Перекрёсток
+#EXTINF:-1,Алиса - Моё поколение
+#EXTDJ:{"artist": "Алиса", "title": "Моё поколение"}
+ytsearch1:Алиса - Моё поколение
+#EXTINF:-1,Чайф - 17 лет
+#EXTDJ:{"artist": "Чайф", "title": "17 лет"}
+ytsearch1:Чайф - 17 лет
+#EXTINF:-1,Мумий Тролль - Владивосток 2000
+#EXTDJ:{"artist": "Мумий Тролль", "title": "Владивосток 2000"}
+ytsearch1:Мумий Тролль - Владивосток 2000
+#EXTINF:-1,Ария - Потерянный рай
+#EXTDJ:{"artist": "Ария", "title": "Потерянный рай"}
+ytsearch1:Ария - Потерянный рай
+#EXTINF:-1,Браво - Жёлтые ботинки
+#EXTDJ:{"artist": "Браво", "title": "Жёлтые ботинки"}
+ytsearch1:Браво - Жёлтые ботинки
+#EXTINF:-1,Ногу Свело! - Хару Мамбуру
+#EXTDJ:{"artist": "Ногу Свело!", "title": "Хару Мамбуру"}
+ytsearch1:Ногу Свело! - Хару Мамбуру
 # --- Русский поп и рэп ---
 #EXTINF:-1,Иванушки International - Тучи
 #EXTDJ:{"artist": "Иванушки International", "title": "Тучи"}
