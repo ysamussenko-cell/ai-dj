@@ -1,6 +1,18 @@
 <!doctype html>
 <html lang="ru">
 <head>
+<script>
+// ссылку на зеркало шлём всем; из Казахстана — сразу на основной сайт: там счётчик и отзывы
+(function () {
+  try {
+    var tz = Intl.DateTimeFormat().resolvedOptions().timeZone || "";
+    var kz = ["Asia/Almaty", "Asia/Qyzylorda", "Asia/Aqtobe", "Asia/Aqtau", "Asia/Atyrau",
+              "Asia/Oral", "Asia/Qostanay"];
+    if (kz.indexOf(tz) >= 0 && location.search.indexOf("stay") < 0)
+      location.replace("https://ai-dj.ysamussenko.workers.dev/" + location.hash);
+  } catch (e) {}
+})();
+</script>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>AI DJ — диджей, который понимает настроение</title>
