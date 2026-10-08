@@ -235,6 +235,12 @@ footer { font-size: 13px; color: var(--dim); }
 .notwa .l3 { margin-top: 10px; font-size: 13px; color: var(--dim); }
 @keyframes stamp { from { transform: rotate(-2deg) scale(1.8); opacity: 0; } to { transform: rotate(-2deg) scale(1); opacity: 1; } }
 @media (prefers-reduced-motion: reduce) { .notwa .l2 { animation: none; } }
+.ticker{margin-top:10px;max-width:640px;overflow:hidden;border:1px solid rgba(120,255,120,.35);background:#050a05;border-radius:4px;padding:6px 0;font:600 15px/1.2 "DejaVu Sans Mono",Consolas,monospace;color:#7dff7d;text-shadow:0 0 6px rgba(80,255,80,.6)}
+.tick-in{display:flex;width:max-content;animation:tick 40s linear infinite}
+.tick-in span{white-space:nowrap;padding-right:2em}
+.ticker:hover .tick-in{animation-play-state:paused}
+@keyframes tick{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+@media (prefers-reduced-motion:reduce){.tick-in{animation:none}.ticker{overflow-x:auto}}
 .gift{display:flex;gap:8px;align-items:center;margin-top:12px;font-size:14px;opacity:.9;cursor:pointer}
 .gift input{width:16px;height:16px;accent-color:currentColor;cursor:pointer}
 </style>
@@ -272,6 +278,7 @@ footer { font-size: 13px; color: var(--dim); }
         <span class="meta">Windows 10/11 · 64 бит · ~106 МБ</span>
       </div>
       <p class="gift">В комплекте — плейлист Самуса, 1001 песня: слушать можно и без ключа нейросети. Не нужен — снимите галочку при установке.</p>
+      <div class="ticker" aria-label="Исполнители в плейлисте Самуса"><div class="tick-in"><span>Rammstein · Иван-Кайф · 5&#x27;nizza · bearWOLF · The Чиж &amp; Co · Король и Шут · Би-2 · Sepultura · Чайф · Slipknot · Limp Bizkit · Korn · Алиса · Пилот · System of a Down · ДДТ · Сектор Газа · Дядя Женя · Юрий Шевчук · Гарик Сукачёв · Ночные Снайперы · Чёрный обелиск · Noize MC · МНОГОТОЧИЕ · Metallica · Агата Кристи · Godsmack · Тараканы! · A Perfect Circle · Blackmore&#x27;s Night · Земфира · Disturbed · Marilyn Manson · Валентин Стрыкало · Ария · Наутилус Помпилиус · Кино · Бумбокс · Deftones · Машина Времени · и ещё 486 исполнителей ·&nbsp;</span><span aria-hidden="true">Rammstein · Иван-Кайф · 5&#x27;nizza · bearWOLF · The Чиж &amp; Co · Король и Шут · Би-2 · Sepultura · Чайф · Slipknot · Limp Bizkit · Korn · Алиса · Пилот · System of a Down · ДДТ · Сектор Газа · Дядя Женя · Юрий Шевчук · Гарик Сукачёв · Ночные Снайперы · Чёрный обелиск · Noize MC · МНОГОТОЧИЕ · Metallica · Агата Кристи · Godsmack · Тараканы! · A Perfect Circle · Blackmore&#x27;s Night · Земфира · Disturbed · Marilyn Manson · Валентин Стрыкало · Ария · Наутилус Помпилиус · Кино · Бумбокс · Deftones · Машина Времени · и ещё 486 исполнителей ·&nbsp;</span></div></div>
     </div>
   </section>
 
