@@ -1,185 +1,185 @@
 #EXTM3U
-#PLAYLIST:Наследие человечества — 1000 треков
+#PLAYLIST:1000 лучших песен человечества
 # Плейлист собран Claude для AI DJ: все эпохи, жанры и народы. Откройте в AI DJ (Ctrl+O) —
 # ссылки на ролики плеер найдёт сам при проигрывании.
 # --- Классика ---
-#EXTINF:-1,Hildegard von Bingen - O vis aeternitatis
-#EXTDJ:{"artist": "Hildegard von Bingen", "title": "O vis aeternitatis"}
-ytsearch1:Hildegard von Bingen - O vis aeternitatis
-#EXTINF:-1,Pachelbel - Canon in D
-#EXTDJ:{"artist": "Pachelbel", "title": "Canon in D"}
-ytsearch1:Pachelbel - Canon in D
-#EXTINF:-1,Vivaldi - The Four Seasons: Spring
-#EXTDJ:{"artist": "Vivaldi", "title": "The Four Seasons: Spring"}
-ytsearch1:Vivaldi - The Four Seasons: Spring
-#EXTINF:-1,Albinoni - Adagio in G minor
-#EXTDJ:{"artist": "Albinoni", "title": "Adagio in G minor"}
-ytsearch1:Albinoni - Adagio in G minor
-#EXTINF:-1,Bach - Toccata and Fugue in D minor
-#EXTDJ:{"artist": "Bach", "title": "Toccata and Fugue in D minor"}
-ytsearch1:Bach - Toccata and Fugue in D minor
-#EXTINF:-1,Bach - Air on the G String
-#EXTDJ:{"artist": "Bach", "title": "Air on the G String"}
-ytsearch1:Bach - Air on the G String
-#EXTINF:-1,Bach - Cello Suite No. 1: Prelude
-#EXTDJ:{"artist": "Bach", "title": "Cello Suite No. 1: Prelude"}
-ytsearch1:Bach - Cello Suite No. 1: Prelude
-#EXTINF:-1,Handel - Messiah: Hallelujah
-#EXTDJ:{"artist": "Handel", "title": "Messiah: Hallelujah"}
-ytsearch1:Handel - Messiah: Hallelujah
-#EXTINF:-1,Mozart - Eine kleine Nachtmusik
-#EXTDJ:{"artist": "Mozart", "title": "Eine kleine Nachtmusik"}
-ytsearch1:Mozart - Eine kleine Nachtmusik
-#EXTINF:-1,Mozart - Symphony No. 40
-#EXTDJ:{"artist": "Mozart", "title": "Symphony No. 40"}
-ytsearch1:Mozart - Symphony No. 40
-#EXTINF:-1,Mozart - Requiem: Lacrimosa
-#EXTDJ:{"artist": "Mozart", "title": "Requiem: Lacrimosa"}
-ytsearch1:Mozart - Requiem: Lacrimosa
-#EXTINF:-1,Mozart - Piano Concerto No. 21: Andante
-#EXTDJ:{"artist": "Mozart", "title": "Piano Concerto No. 21: Andante"}
-ytsearch1:Mozart - Piano Concerto No. 21: Andante
-#EXTINF:-1,Beethoven - Symphony No. 5
-#EXTDJ:{"artist": "Beethoven", "title": "Symphony No. 5"}
-ytsearch1:Beethoven - Symphony No. 5
-#EXTINF:-1,Beethoven - Symphony No. 9: Ode to Joy
-#EXTDJ:{"artist": "Beethoven", "title": "Symphony No. 9: Ode to Joy"}
-ytsearch1:Beethoven - Symphony No. 9: Ode to Joy
-#EXTINF:-1,Beethoven - Moonlight Sonata
-#EXTDJ:{"artist": "Beethoven", "title": "Moonlight Sonata"}
-ytsearch1:Beethoven - Moonlight Sonata
-#EXTINF:-1,Beethoven - Für Elise
-#EXTDJ:{"artist": "Beethoven", "title": "Für Elise"}
-ytsearch1:Beethoven - Für Elise
-#EXTINF:-1,Schubert - Ave Maria
-#EXTDJ:{"artist": "Schubert", "title": "Ave Maria"}
-ytsearch1:Schubert - Ave Maria
-#EXTINF:-1,Rossini - William Tell Overture
-#EXTDJ:{"artist": "Rossini", "title": "William Tell Overture"}
-ytsearch1:Rossini - William Tell Overture
-#EXTINF:-1,Paganini - Caprice No. 24
-#EXTDJ:{"artist": "Paganini", "title": "Caprice No. 24"}
-ytsearch1:Paganini - Caprice No. 24
-#EXTINF:-1,Chopin - Nocturne Op. 9 No. 2
-#EXTDJ:{"artist": "Chopin", "title": "Nocturne Op. 9 No. 2"}
-ytsearch1:Chopin - Nocturne Op. 9 No. 2
-#EXTINF:-1,Chopin - Waltz in C-sharp minor, Op. 64 No. 2
-#EXTDJ:{"artist": "Chopin", "title": "Waltz in C-sharp minor, Op. 64 No. 2"}
-ytsearch1:Chopin - Waltz in C-sharp minor, Op. 64 No. 2
-#EXTINF:-1,Liszt - Hungarian Rhapsody No. 2
-#EXTDJ:{"artist": "Liszt", "title": "Hungarian Rhapsody No. 2"}
-ytsearch1:Liszt - Hungarian Rhapsody No. 2
-#EXTINF:-1,Mendelssohn - Wedding March
-#EXTDJ:{"artist": "Mendelssohn", "title": "Wedding March"}
-ytsearch1:Mendelssohn - Wedding March
-#EXTINF:-1,Schumann - Träumerei
-#EXTDJ:{"artist": "Schumann", "title": "Träumerei"}
-ytsearch1:Schumann - Träumerei
-#EXTINF:-1,Brahms - Hungarian Dance No. 5
-#EXTDJ:{"artist": "Brahms", "title": "Hungarian Dance No. 5"}
-ytsearch1:Brahms - Hungarian Dance No. 5
-#EXTINF:-1,Wagner - Ride of the Valkyries
-#EXTDJ:{"artist": "Wagner", "title": "Ride of the Valkyries"}
-ytsearch1:Wagner - Ride of the Valkyries
-#EXTINF:-1,Verdi - La Traviata: Brindisi
-#EXTDJ:{"artist": "Verdi", "title": "La Traviata: Brindisi"}
-ytsearch1:Verdi - La Traviata: Brindisi
-#EXTINF:-1,Verdi - Rigoletto: La donna è mobile
-#EXTDJ:{"artist": "Verdi", "title": "Rigoletto: La donna è mobile"}
-ytsearch1:Verdi - Rigoletto: La donna è mobile
-#EXTINF:-1,Verdi - Nabucco: Va, pensiero
-#EXTDJ:{"artist": "Verdi", "title": "Nabucco: Va, pensiero"}
-ytsearch1:Verdi - Nabucco: Va, pensiero
-#EXTINF:-1,Bizet - Carmen: Habanera
-#EXTDJ:{"artist": "Bizet", "title": "Carmen: Habanera"}
-ytsearch1:Bizet - Carmen: Habanera
-#EXTINF:-1,Offenbach - Can-Can
-#EXTDJ:{"artist": "Offenbach", "title": "Can-Can"}
-ytsearch1:Offenbach - Can-Can
-#EXTINF:-1,Johann Strauss II - The Blue Danube
-#EXTDJ:{"artist": "Johann Strauss II", "title": "The Blue Danube"}
-ytsearch1:Johann Strauss II - The Blue Danube
-#EXTINF:-1,Smetana - Vltava
-#EXTDJ:{"artist": "Smetana", "title": "Vltava"}
-ytsearch1:Smetana - Vltava
-#EXTINF:-1,Dvořák - Symphony No. 9 "From the New World": Largo
-#EXTDJ:{"artist": "Dvořák", "title": "Symphony No. 9 \"From the New World\": Largo"}
-ytsearch1:Dvořák - Symphony No. 9 "From the New World": Largo
-#EXTINF:-1,Grieg - In the Hall of the Mountain King
-#EXTDJ:{"artist": "Grieg", "title": "In the Hall of the Mountain King"}
-ytsearch1:Grieg - In the Hall of the Mountain King
-#EXTINF:-1,Saint-Saëns - The Swan
-#EXTDJ:{"artist": "Saint-Saëns", "title": "The Swan"}
-ytsearch1:Saint-Saëns - The Swan
-#EXTINF:-1,Tchaikovsky - Swan Lake: Scene
-#EXTDJ:{"artist": "Tchaikovsky", "title": "Swan Lake: Scene"}
-ytsearch1:Tchaikovsky - Swan Lake: Scene
-#EXTINF:-1,Tchaikovsky - The Nutcracker: Dance of the Sugar Plum Fairy
-#EXTDJ:{"artist": "Tchaikovsky", "title": "The Nutcracker: Dance of the Sugar Plum Fairy"}
-ytsearch1:Tchaikovsky - The Nutcracker: Dance of the Sugar Plum Fairy
-#EXTINF:-1,Tchaikovsky - Piano Concerto No. 1
-#EXTDJ:{"artist": "Tchaikovsky", "title": "Piano Concerto No. 1"}
-ytsearch1:Tchaikovsky - Piano Concerto No. 1
-#EXTINF:-1,Mussorgsky - Pictures at an Exhibition: The Great Gate of Kiev
-#EXTDJ:{"artist": "Mussorgsky", "title": "Pictures at an Exhibition: The Great Gate of Kiev"}
-ytsearch1:Mussorgsky - Pictures at an Exhibition: The Great Gate of Kiev
-#EXTINF:-1,Rimsky-Korsakov - Flight of the Bumblebee
-#EXTDJ:{"artist": "Rimsky-Korsakov", "title": "Flight of the Bumblebee"}
-ytsearch1:Rimsky-Korsakov - Flight of the Bumblebee
-#EXTINF:-1,Borodin - Polovtsian Dances
-#EXTDJ:{"artist": "Borodin", "title": "Polovtsian Dances"}
-ytsearch1:Borodin - Polovtsian Dances
-#EXTINF:-1,Rachmaninoff - Piano Concerto No. 2
-#EXTDJ:{"artist": "Rachmaninoff", "title": "Piano Concerto No. 2"}
-ytsearch1:Rachmaninoff - Piano Concerto No. 2
-#EXTINF:-1,Rachmaninoff - Prelude in C-sharp minor
-#EXTDJ:{"artist": "Rachmaninoff", "title": "Prelude in C-sharp minor"}
-ytsearch1:Rachmaninoff - Prelude in C-sharp minor
-#EXTINF:-1,Mahler - Symphony No. 5: Adagietto
-#EXTDJ:{"artist": "Mahler", "title": "Symphony No. 5: Adagietto"}
-ytsearch1:Mahler - Symphony No. 5: Adagietto
-#EXTINF:-1,Puccini - Turandot: Nessun dorma
-#EXTDJ:{"artist": "Puccini", "title": "Turandot: Nessun dorma"}
-ytsearch1:Puccini - Turandot: Nessun dorma
-#EXTINF:-1,Puccini - Gianni Schicchi: O mio babbino caro
-#EXTDJ:{"artist": "Puccini", "title": "Gianni Schicchi: O mio babbino caro"}
-ytsearch1:Puccini - Gianni Schicchi: O mio babbino caro
-#EXTINF:-1,Leoncavallo - Pagliacci: Vesti la giubba
-#EXTDJ:{"artist": "Leoncavallo", "title": "Pagliacci: Vesti la giubba"}
-ytsearch1:Leoncavallo - Pagliacci: Vesti la giubba
-#EXTINF:-1,Debussy - Clair de lune
-#EXTDJ:{"artist": "Debussy", "title": "Clair de lune"}
-ytsearch1:Debussy - Clair de lune
-#EXTINF:-1,Satie - Gymnopédie No. 1
-#EXTDJ:{"artist": "Satie", "title": "Gymnopédie No. 1"}
-ytsearch1:Satie - Gymnopédie No. 1
+#EXTINF:369,Hildegard von Bingen - O vis aeternitatis
+#EXTDJ:{"artist": "Hildegard von Bingen", "title": "O vis aeternitatis", "vid_kind": "song"}
+https://www.youtube.com/watch?v=2jaEeu2Yt1g
+#EXTINF:376,Pachelbel - Canon in D
+#EXTDJ:{"artist": "Pachelbel", "title": "Canon in D", "vid_kind": "video"}
+https://www.youtube.com/watch?v=NlprozGcs80
+#EXTINF:624,Vivaldi - The Four Seasons: Spring
+#EXTDJ:{"artist": "Vivaldi", "title": "The Four Seasons: Spring", "vid_kind": "song"}
+https://www.youtube.com/watch?v=CzUP3znfE4U
+#EXTINF:577,Albinoni - Adagio in G minor
+#EXTDJ:{"artist": "Albinoni", "title": "Adagio in G minor", "vid_kind": "song"}
+https://www.youtube.com/watch?v=l6aDh-N7oEc
+#EXTINF:566,Bach - Toccata and Fugue in D minor
+#EXTDJ:{"artist": "Bach", "title": "Toccata and Fugue in D minor", "vid_kind": "song"}
+https://www.youtube.com/watch?v=z69C2Jqp42Q
+#EXTINF:179,Bach - Air on the G String
+#EXTDJ:{"artist": "Bach", "title": "Air on the G String", "vid_kind": "song"}
+https://www.youtube.com/watch?v=eDZGlfNvZ9s
+#EXTINF:155,Bach - Cello Suite No. 1: Prelude
+#EXTDJ:{"artist": "Bach", "title": "Cello Suite No. 1: Prelude", "vid_kind": "song"}
+https://www.youtube.com/watch?v=E-U63BKkgLQ
+#EXTINF:235,Handel - Messiah: Hallelujah
+#EXTDJ:{"artist": "Handel", "title": "Messiah: Hallelujah", "vid_kind": "song"}
+https://www.youtube.com/watch?v=imisTUPNGQE
+#EXTINF:139,Mozart - Eine kleine Nachtmusik
+#EXTDJ:{"artist": "Mozart", "title": "Eine kleine Nachtmusik", "vid_kind": "song"}
+https://www.youtube.com/watch?v=BQA5jcK4xJY
+#EXTINF:477,Mozart - Symphony No. 40
+#EXTDJ:{"artist": "Mozart", "title": "Symphony No. 40", "vid_kind": "song"}
+https://www.youtube.com/watch?v=kdmKUPJOsKI
+#EXTINF:189,Mozart - Requiem: Lacrimosa
+#EXTDJ:{"artist": "Mozart", "title": "Requiem: Lacrimosa", "vid_kind": "video"}
+https://www.youtube.com/watch?v=W_kSfXbmwS4
+#EXTINF:194,Mozart - Piano Concerto No. 21: Andante
+#EXTDJ:{"artist": "Mozart", "title": "Piano Concerto No. 21: Andante", "vid_kind": "song"}
+https://www.youtube.com/watch?v=2udy8Tw_RxA
+#EXTINF:358,Beethoven - Symphony No. 5
+#EXTDJ:{"artist": "Beethoven", "title": "Symphony No. 5", "vid_kind": "video"}
+https://www.youtube.com/watch?v=8QorZ9fcg3o
+#EXTINF:142,Beethoven - Symphony No. 9: Ode to Joy
+#EXTDJ:{"artist": "Beethoven", "title": "Symphony No. 9: Ode to Joy", "vid_kind": "video"}
+https://www.youtube.com/watch?v=uooe16ILaPo
+#EXTINF:900,Beethoven - Moonlight Sonata
+#EXTDJ:{"artist": "Beethoven", "title": "Moonlight Sonata", "vid_kind": "song"}
+https://www.youtube.com/watch?v=NbEfWg8VBho
+#EXTINF:173,Beethoven - Für Elise
+#EXTDJ:{"artist": "Beethoven", "title": "Für Elise", "vid_kind": "song"}
+https://www.youtube.com/watch?v=_XG3h6LywNQ
+#EXTINF:376,Schubert - Ave Maria
+#EXTDJ:{"artist": "Schubert", "title": "Ave Maria", "vid_kind": "video"}
+https://www.youtube.com/watch?v=2H5rusicEnc
+#EXTINF:191,Rossini - William Tell Overture
+#EXTDJ:{"artist": "Rossini", "title": "William Tell Overture", "vid_kind": "song"}
+https://www.youtube.com/watch?v=SAogRjTBP4Y
+#EXTINF:309,Paganini - Caprice No. 24
+#EXTDJ:{"artist": "Paganini", "title": "Caprice No. 24", "vid_kind": "song"}
+https://www.youtube.com/watch?v=2F8IQFngXTA
+#EXTINF:269,Chopin - Nocturne Op. 9 No. 2
+#EXTDJ:{"artist": "Chopin", "title": "Nocturne Op. 9 No. 2", "vid_kind": "video"}
+https://www.youtube.com/watch?v=9E6b3swbnWg
+#EXTINF:270,Chopin - Waltz in C-sharp minor, Op. 64 No. 2
+#EXTDJ:{"artist": "Chopin", "title": "Waltz in C-sharp minor, Op. 64 No. 2", "vid_kind": "video"}
+https://www.youtube.com/watch?v=SUT_0c2QVzo
+#EXTINF:557,Liszt - Hungarian Rhapsody No. 2
+#EXTDJ:{"artist": "Liszt", "title": "Hungarian Rhapsody No. 2", "vid_kind": "video"}
+https://www.youtube.com/watch?v=uZbHvWImFUM
+#EXTINF:360,Mendelssohn - Wedding March
+#EXTDJ:{"artist": "Mendelssohn", "title": "Wedding March", "vid_kind": "song"}
+https://www.youtube.com/watch?v=hyCC_jfkqg8
+#EXTINF:155,Schumann - Träumerei
+#EXTDJ:{"artist": "Schumann", "title": "Träumerei", "vid_kind": "song"}
+https://www.youtube.com/watch?v=stM8QFB52Cc
+#EXTINF:159,Brahms - Hungarian Dance No. 5
+#EXTDJ:{"artist": "Brahms", "title": "Hungarian Dance No. 5", "vid_kind": "song"}
+https://www.youtube.com/watch?v=-HNmVe0Mmek
+#EXTINF:307,Wagner - Ride of the Valkyries
+#EXTDJ:{"artist": "Wagner", "title": "Ride of the Valkyries", "vid_kind": "song"}
+https://www.youtube.com/watch?v=EUrvY1XggAI
+#EXTINF:303,Verdi - La Traviata: Brindisi
+#EXTDJ:{"artist": "Verdi", "title": "La Traviata: Brindisi", "vid_kind": "video"}
+https://www.youtube.com/watch?v=pu7zWrIMV_g
+#EXTINF:176,Verdi - Rigoletto: La donna è mobile
+#EXTDJ:{"artist": "Verdi", "title": "Rigoletto: La donna è mobile", "vid_kind": "video"}
+https://www.youtube.com/watch?v=uvhUmzBP_aI
+#EXTINF:263,Verdi - Nabucco: Va, pensiero
+#EXTDJ:{"artist": "Verdi", "title": "Nabucco: Va, pensiero", "vid_kind": "song"}
+https://www.youtube.com/watch?v=5G6BGUoOkd8
+#EXTINF:169,Bizet - Carmen: Habanera
+#EXTDJ:{"artist": "Bizet", "title": "Carmen: Habanera", "vid_kind": "song"}
+https://www.youtube.com/watch?v=1DTHq-WMCvI
+#EXTINF:138,Offenbach - Can-Can
+#EXTDJ:{"artist": "Offenbach", "title": "Can-Can", "vid_kind": "song"}
+https://www.youtube.com/watch?v=DSJzz0s0HsA
+#EXTINF:658,Johann Strauss II - The Blue Danube
+#EXTDJ:{"artist": "Johann Strauss II", "title": "The Blue Danube", "vid_kind": "song"}
+https://www.youtube.com/watch?v=YvFyM1r1v-E
+#EXTINF:794,Smetana - Vltava
+#EXTDJ:{"artist": "Smetana", "title": "Vltava", "vid_kind": "song"}
+https://www.youtube.com/watch?v=3ZJwlDPWEkg
+#EXTINF:184,Dvořák - Symphony No. 9 "From the New World": Largo
+#EXTDJ:{"artist": "Dvořák", "title": "Symphony No. 9 \"From the New World\": Largo", "vid_kind": "video"}
+https://www.youtube.com/watch?v=P_1N6_O254g
+#EXTINF:162,Grieg - In the Hall of the Mountain King
+#EXTDJ:{"artist": "Grieg", "title": "In the Hall of the Mountain King", "vid_kind": "song"}
+https://www.youtube.com/watch?v=l5zIaC8uGUE
+#EXTINF:183,Saint-Saëns - The Swan
+#EXTDJ:{"artist": "Saint-Saëns", "title": "The Swan", "vid_kind": "song"}
+https://www.youtube.com/watch?v=vI20F4C_wSs
+#EXTINF:188,Tchaikovsky - Swan Lake: Scene
+#EXTDJ:{"artist": "Tchaikovsky", "title": "Swan Lake: Scene", "vid_kind": "video"}
+https://www.youtube.com/watch?v=S76CGGPqI3s
+#EXTINF:101,Tchaikovsky - The Nutcracker: Dance of the Sugar Plum Fairy
+#EXTDJ:{"artist": "Tchaikovsky", "title": "The Nutcracker: Dance of the Sugar Plum Fairy", "vid_kind": "song"}
+https://www.youtube.com/watch?v=VNnJpjtDYs0
+#EXTINF:550,Tchaikovsky - Piano Concerto No. 1
+#EXTDJ:{"artist": "Tchaikovsky", "title": "Piano Concerto No. 1", "vid_kind": "video"}
+https://www.youtube.com/watch?v=BWerj8FcprM
+#EXTINF:404,Mussorgsky - Pictures at an Exhibition: The Great Gate of Kiev
+#EXTDJ:{"artist": "Mussorgsky", "title": "Pictures at an Exhibition: The Great Gate of Kiev", "vid_kind": "song"}
+https://www.youtube.com/watch?v=OXhjhbP2vj8
+#EXTINF:90,Rimsky-Korsakov - Flight of the Bumblebee
+#EXTDJ:{"artist": "Rimsky-Korsakov", "title": "Flight of the Bumblebee", "vid_kind": "song"}
+https://www.youtube.com/watch?v=9ZsGEhTGL6g
+#EXTINF:710,Borodin - Polovtsian Dances
+#EXTDJ:{"artist": "Borodin", "title": "Polovtsian Dances", "vid_kind": "song"}
+https://www.youtube.com/watch?v=5yIiHzMN1kQ
+#EXTINF:706,Rachmaninoff - Piano Concerto No. 2
+#EXTDJ:{"artist": "Rachmaninoff", "title": "Piano Concerto No. 2", "vid_kind": "song"}
+https://www.youtube.com/watch?v=caR7C2SHdFI
+#EXTINF:226,Rachmaninoff - Prelude in C-sharp minor
+#EXTDJ:{"artist": "Rachmaninoff", "title": "Prelude in C-sharp minor", "vid_kind": "song"}
+https://www.youtube.com/watch?v=yKbTbkgaF00
+#EXTINF:541,Mahler - Symphony No. 5: Adagietto
+#EXTDJ:{"artist": "Mahler", "title": "Symphony No. 5: Adagietto", "vid_kind": "song"}
+https://www.youtube.com/watch?v=6QBYJtsFTgw
+#EXTINF:205,Puccini - Turandot: Nessun dorma
+#EXTDJ:{"artist": "Puccini", "title": "Turandot: Nessun dorma", "vid_kind": "video"}
+https://www.youtube.com/watch?v=suj-2sbSFKs
+#EXTINF:243,Puccini - Gianni Schicchi: O mio babbino caro
+#EXTDJ:{"artist": "Puccini", "title": "Gianni Schicchi: O mio babbino caro", "vid_kind": "song"}
+https://www.youtube.com/watch?v=LXHQYcFdJsI
+#EXTINF:248,Leoncavallo - Pagliacci: Vesti la giubba
+#EXTDJ:{"artist": "Leoncavallo", "title": "Pagliacci: Vesti la giubba", "vid_kind": "song"}
+https://www.youtube.com/watch?v=mONTSRzdRZw
+#EXTINF:248,Debussy - Clair de lune
+#EXTDJ:{"artist": "Debussy", "title": "Clair de lune", "vid_kind": "song"}
+https://www.youtube.com/watch?v=WKU8DJzipW4
+#EXTINF:238,Satie - Gymnopédie No. 1
+#EXTDJ:{"artist": "Satie", "title": "Gymnopédie No. 1", "vid_kind": "song"}
+https://www.youtube.com/watch?v=eMnxjdGTK4w
 #EXTINF:-1,Ravel - Boléro
 #EXTDJ:{"artist": "Ravel", "title": "Boléro"}
 ytsearch1:Ravel - Boléro
-#EXTINF:-1,Elgar - Nimrod
-#EXTDJ:{"artist": "Elgar", "title": "Nimrod"}
-ytsearch1:Elgar - Nimrod
-#EXTINF:-1,Holst - The Planets: Jupiter
-#EXTDJ:{"artist": "Holst", "title": "The Planets: Jupiter"}
-ytsearch1:Holst - The Planets: Jupiter
-#EXTINF:-1,Sibelius - Finlandia
-#EXTDJ:{"artist": "Sibelius", "title": "Finlandia"}
-ytsearch1:Sibelius - Finlandia
-#EXTINF:-1,Stravinsky - The Rite of Spring: Augurs of Spring
-#EXTDJ:{"artist": "Stravinsky", "title": "The Rite of Spring: Augurs of Spring"}
-ytsearch1:Stravinsky - The Rite of Spring: Augurs of Spring
-#EXTINF:-1,Prokofiev - Romeo and Juliet: Dance of the Knights
-#EXTDJ:{"artist": "Prokofiev", "title": "Romeo and Juliet: Dance of the Knights"}
-ytsearch1:Prokofiev - Romeo and Juliet: Dance of the Knights
-#EXTINF:-1,Shostakovich - Waltz No. 2
-#EXTDJ:{"artist": "Shostakovich", "title": "Waltz No. 2"}
-ytsearch1:Shostakovich - Waltz No. 2
-#EXTINF:-1,Khachaturian - Sabre Dance
-#EXTDJ:{"artist": "Khachaturian", "title": "Sabre Dance"}
-ytsearch1:Khachaturian - Sabre Dance
-#EXTINF:-1,Orff - Carmina Burana: O Fortuna
-#EXTDJ:{"artist": "Orff", "title": "Carmina Burana: O Fortuna"}
-ytsearch1:Orff - Carmina Burana: O Fortuna
+#EXTINF:368,Elgar - Nimrod
+#EXTDJ:{"artist": "Elgar", "title": "Nimrod", "vid_kind": "song"}
+https://www.youtube.com/watch?v=2PY2hwzACvA
+#EXTINF:456,Holst - The Planets: Jupiter
+#EXTDJ:{"artist": "Holst", "title": "The Planets: Jupiter", "vid_kind": "song"}
+https://www.youtube.com/watch?v=wvfz23jZz6c
+#EXTINF:566,Sibelius - Finlandia
+#EXTDJ:{"artist": "Sibelius", "title": "Finlandia", "vid_kind": "song"}
+https://www.youtube.com/watch?v=xcEA6XZHBlo
+#EXTINF:184,Stravinsky - The Rite of Spring: Augurs of Spring
+#EXTDJ:{"artist": "Stravinsky", "title": "The Rite of Spring: Augurs of Spring", "vid_kind": "song"}
+https://www.youtube.com/watch?v=dcwB67IoefA
+#EXTINF:308,Prokofiev - Romeo and Juliet: Dance of the Knights
+#EXTDJ:{"artist": "Prokofiev", "title": "Romeo and Juliet: Dance of the Knights", "vid_kind": "song"}
+https://www.youtube.com/watch?v=XX6GHiFKovw
+#EXTINF:230,Shostakovich - Waltz No. 2
+#EXTDJ:{"artist": "Shostakovich", "title": "Waltz No. 2", "vid_kind": "song"}
+https://www.youtube.com/watch?v=8WPf5yRBbME
+#EXTINF:146,Khachaturian - Sabre Dance
+#EXTDJ:{"artist": "Khachaturian", "title": "Sabre Dance", "vid_kind": "song"}
+https://www.youtube.com/watch?v=Dpu7MwJZvFg
+#EXTINF:161,Orff - Carmina Burana: O Fortuna
+#EXTDJ:{"artist": "Orff", "title": "Carmina Burana: O Fortuna", "vid_kind": "song"}
+https://www.youtube.com/watch?v=fKjh9iUMNOQ
 #EXTINF:-1,Gershwin - Rhapsody in Blue
 #EXTDJ:{"artist": "Gershwin", "title": "Rhapsody in Blue"}
 ytsearch1:Gershwin - Rhapsody in Blue
@@ -214,15 +214,15 @@ ytsearch1:Ludovico Einaudi - Nuvole Bianche
 #EXTDJ:{"artist": "Max Richter", "title": "On the Nature of Daylight"}
 ytsearch1:Max Richter - On the Nature of Daylight
 # --- Джаз и блюз ---
-#EXTINF:-1,Robert Johnson - Cross Road Blues
-#EXTDJ:{"artist": "Robert Johnson", "title": "Cross Road Blues"}
-ytsearch1:Robert Johnson - Cross Road Blues
+#EXTINF:149,Robert Johnson - Cross Road Blues
+#EXTDJ:{"artist": "Robert Johnson", "title": "Cross Road Blues", "vid_kind": "song"}
+https://www.youtube.com/watch?v=bJ_7nYEpkBo
 #EXTINF:-1,Muddy Waters - Mannish Boy
 #EXTDJ:{"artist": "Muddy Waters", "title": "Mannish Boy"}
 ytsearch1:Muddy Waters - Mannish Boy
-#EXTINF:-1,John Lee Hooker - Boom Boom
-#EXTDJ:{"artist": "John Lee Hooker", "title": "Boom Boom"}
-ytsearch1:John Lee Hooker - Boom Boom
+#EXTINF:152,John Lee Hooker - Boom Boom
+#EXTDJ:{"artist": "John Lee Hooker", "title": "Boom Boom", "vid_kind": "song"}
+https://www.youtube.com/watch?v=n_IjkPvrAHo
 #EXTINF:-1,B.B. King - The Thrill Is Gone
 #EXTDJ:{"artist": "B.B. King", "title": "The Thrill Is Gone"}
 ytsearch1:B.B. King - The Thrill Is Gone
@@ -262,9 +262,9 @@ ytsearch1:Billie Holiday - Strange Fruit
 #EXTINF:-1,Ella Fitzgerald & Louis Armstrong - Dream a Little Dream of Me
 #EXTDJ:{"artist": "Ella Fitzgerald & Louis Armstrong", "title": "Dream a Little Dream of Me"}
 ytsearch1:Ella Fitzgerald & Louis Armstrong - Dream a Little Dream of Me
-#EXTINF:-1,Nat King Cole - Unforgettable
-#EXTDJ:{"artist": "Nat King Cole", "title": "Unforgettable"}
-ytsearch1:Nat King Cole - Unforgettable
+#EXTINF:192,Nat King Cole - Unforgettable
+#EXTDJ:{"artist": "Nat King Cole", "title": "Unforgettable", "vid_kind": "video"}
+https://www.youtube.com/watch?v=UvTnTXKl69Q
 #EXTINF:-1,Frank Sinatra - My Way
 #EXTDJ:{"artist": "Frank Sinatra", "title": "My Way"}
 ytsearch1:Frank Sinatra - My Way
@@ -286,9 +286,9 @@ ytsearch1:Thelonious Monk - 'Round Midnight
 #EXTINF:-1,Miles Davis - So What
 #EXTDJ:{"artist": "Miles Davis", "title": "So What"}
 ytsearch1:Miles Davis - So What
-#EXTINF:-1,John Coltrane - My Favorite Things
-#EXTDJ:{"artist": "John Coltrane", "title": "My Favorite Things"}
-ytsearch1:John Coltrane - My Favorite Things
+#EXTINF:826,John Coltrane - My Favorite Things
+#EXTDJ:{"artist": "John Coltrane", "title": "My Favorite Things", "vid_kind": "song"}
+https://www.youtube.com/watch?v=JQvc-Gkwhow
 #EXTINF:-1,Dave Brubeck - Take Five
 #EXTDJ:{"artist": "Dave Brubeck", "title": "Take Five"}
 ytsearch1:Dave Brubeck - Take Five
@@ -319,12 +319,12 @@ ytsearch1:Julie London - Cry Me a River
 #EXTINF:-1,Peggy Lee - Fever
 #EXTDJ:{"artist": "Peggy Lee", "title": "Fever"}
 ytsearch1:Peggy Lee - Fever
-#EXTINF:-1,Django Reinhardt - Minor Swing
-#EXTDJ:{"artist": "Django Reinhardt", "title": "Minor Swing"}
-ytsearch1:Django Reinhardt - Minor Swing
-#EXTINF:-1,Stan Getz & Astrud Gilberto - The Girl from Ipanema
-#EXTDJ:{"artist": "Stan Getz & Astrud Gilberto", "title": "The Girl from Ipanema"}
-ytsearch1:Stan Getz & Astrud Gilberto - The Girl from Ipanema
+#EXTINF:197,Django Reinhardt - Minor Swing
+#EXTDJ:{"artist": "Django Reinhardt", "title": "Minor Swing", "vid_kind": "song"}
+https://www.youtube.com/watch?v=kt6ULcZxwRo
+#EXTINF:325,Stan Getz & Astrud Gilberto - The Girl from Ipanema
+#EXTDJ:{"artist": "Stan Getz & Astrud Gilberto", "title": "The Girl from Ipanema", "vid_kind": "song"}
+https://www.youtube.com/watch?v=sH9KPoenpnE
 #EXTINF:-1,Weather Report - Birdland
 #EXTDJ:{"artist": "Weather Report", "title": "Birdland"}
 ytsearch1:Weather Report - Birdland
@@ -492,9 +492,9 @@ ytsearch1:Roy Orbison - Oh, Pretty Woman
 #EXTINF:-1,Johnny Cash - Ring of Fire
 #EXTDJ:{"artist": "Johnny Cash", "title": "Ring of Fire"}
 ytsearch1:Johnny Cash - Ring of Fire
-#EXTINF:-1,Johnny Cash - Folsom Prison Blues
-#EXTDJ:{"artist": "Johnny Cash", "title": "Folsom Prison Blues"}
-ytsearch1:Johnny Cash - Folsom Prison Blues
+#EXTINF:167,Johnny Cash - Folsom Prison Blues
+#EXTDJ:{"artist": "Johnny Cash", "title": "Folsom Prison Blues", "vid_kind": "song"}
+https://www.youtube.com/watch?v=s_NLlOiD1Wo
 #EXTINF:-1,Johnny Cash - Hurt
 #EXTDJ:{"artist": "Johnny Cash", "title": "Hurt"}
 ytsearch1:Johnny Cash - Hurt
@@ -582,9 +582,9 @@ ytsearch1:Bob Dylan - Knockin' on Heaven's Door
 #EXTINF:-1,Simon & Garfunkel - The Sound of Silence
 #EXTDJ:{"artist": "Simon & Garfunkel", "title": "The Sound of Silence"}
 ytsearch1:Simon & Garfunkel - The Sound of Silence
-#EXTINF:-1,Simon & Garfunkel - Bridge over Troubled Water
-#EXTDJ:{"artist": "Simon & Garfunkel", "title": "Bridge over Troubled Water"}
-ytsearch1:Simon & Garfunkel - Bridge over Troubled Water
+#EXTINF:280,Simon & Garfunkel - Bridge over Troubled Water
+#EXTDJ:{"artist": "Simon & Garfunkel", "title": "Bridge over Troubled Water", "vid_kind": "video"}
+https://www.youtube.com/watch?v=WrcwRt6J32o
 #EXTINF:-1,Simon & Garfunkel - Mrs. Robinson
 #EXTDJ:{"artist": "Simon & Garfunkel", "title": "Mrs. Robinson"}
 ytsearch1:Simon & Garfunkel - Mrs. Robinson
@@ -603,9 +603,9 @@ ytsearch1:Cat Stevens - Father and Son
 #EXTINF:-1,Procol Harum - A Whiter Shade of Pale
 #EXTDJ:{"artist": "Procol Harum", "title": "A Whiter Shade of Pale"}
 ytsearch1:Procol Harum - A Whiter Shade of Pale
-#EXTINF:-1,The Moody Blues - Nights in White Satin
-#EXTDJ:{"artist": "The Moody Blues", "title": "Nights in White Satin"}
-ytsearch1:The Moody Blues - Nights in White Satin
+#EXTINF:266,The Moody Blues - Nights in White Satin
+#EXTDJ:{"artist": "The Moody Blues", "title": "Nights in White Satin", "vid_kind": "song"}
+https://www.youtube.com/watch?v=066HZlam91Y
 #EXTINF:-1,Van Morrison - Brown Eyed Girl
 #EXTDJ:{"artist": "Van Morrison", "title": "Brown Eyed Girl"}
 ytsearch1:Van Morrison - Brown Eyed Girl
@@ -679,338 +679,338 @@ ytsearch1:David Bowie - Space Oddity
 #EXTINF:-1,David Bowie - Heroes
 #EXTDJ:{"artist": "David Bowie", "title": "Heroes"}
 ytsearch1:David Bowie - Heroes
-#EXTINF:-1,Elton John - Your Song
-#EXTDJ:{"artist": "Elton John", "title": "Your Song"}
-ytsearch1:Elton John - Your Song
-#EXTINF:-1,Eagles - Hotel California
-#EXTDJ:{"artist": "Eagles", "title": "Hotel California"}
-ytsearch1:Eagles - Hotel California
-#EXTINF:-1,Fleetwood Mac - Go Your Own Way
-#EXTDJ:{"artist": "Fleetwood Mac", "title": "Go Your Own Way"}
-ytsearch1:Fleetwood Mac - Go Your Own Way
-#EXTINF:-1,Lynyrd Skynyrd - Sweet Home Alabama
-#EXTDJ:{"artist": "Lynyrd Skynyrd", "title": "Sweet Home Alabama"}
-ytsearch1:Lynyrd Skynyrd - Sweet Home Alabama
-#EXTINF:-1,Eric Clapton - Tears in Heaven
-#EXTDJ:{"artist": "Eric Clapton", "title": "Tears in Heaven"}
-ytsearch1:Eric Clapton - Tears in Heaven
-#EXTINF:-1,Derek and the Dominos - Layla
-#EXTDJ:{"artist": "Derek and the Dominos", "title": "Layla"}
-ytsearch1:Derek and the Dominos - Layla
-#EXTINF:-1,Bruce Springsteen - Born to Run
-#EXTDJ:{"artist": "Bruce Springsteen", "title": "Born to Run"}
-ytsearch1:Bruce Springsteen - Born to Run
-#EXTINF:-1,Neil Young - Heart of Gold
-#EXTDJ:{"artist": "Neil Young", "title": "Heart of Gold"}
-ytsearch1:Neil Young - Heart of Gold
-#EXTINF:-1,Dire Straits - Sultans of Swing
-#EXTDJ:{"artist": "Dire Straits", "title": "Sultans of Swing"}
-ytsearch1:Dire Straits - Sultans of Swing
-#EXTINF:-1,Dire Straits - Money for Nothing
-#EXTDJ:{"artist": "Dire Straits", "title": "Money for Nothing"}
-ytsearch1:Dire Straits - Money for Nothing
-#EXTINF:-1,Supertramp - The Logical Song
-#EXTDJ:{"artist": "Supertramp", "title": "The Logical Song"}
-ytsearch1:Supertramp - The Logical Song
-#EXTINF:-1,Electric Light Orchestra - Mr. Blue Sky
-#EXTDJ:{"artist": "Electric Light Orchestra", "title": "Mr. Blue Sky"}
-ytsearch1:Electric Light Orchestra - Mr. Blue Sky
-#EXTINF:-1,Yes - Roundabout
-#EXTDJ:{"artist": "Yes", "title": "Roundabout"}
-ytsearch1:Yes - Roundabout
-#EXTINF:-1,King Crimson - 21st Century Schizoid Man
-#EXTDJ:{"artist": "King Crimson", "title": "21st Century Schizoid Man"}
-ytsearch1:King Crimson - 21st Century Schizoid Man
-#EXTINF:-1,Jethro Tull - Locomotive Breath
-#EXTDJ:{"artist": "Jethro Tull", "title": "Locomotive Breath"}
-ytsearch1:Jethro Tull - Locomotive Breath
-#EXTINF:-1,Kansas - Carry On Wayward Son
-#EXTDJ:{"artist": "Kansas", "title": "Carry On Wayward Son"}
-ytsearch1:Kansas - Carry On Wayward Son
-#EXTINF:-1,Kansas - Dust in the Wind
-#EXTDJ:{"artist": "Kansas", "title": "Dust in the Wind"}
-ytsearch1:Kansas - Dust in the Wind
-#EXTINF:-1,Journey - Don't Stop Believin'
-#EXTDJ:{"artist": "Journey", "title": "Don't Stop Believin'"}
-ytsearch1:Journey - Don't Stop Believin'
-#EXTINF:-1,Toto - Africa
-#EXTDJ:{"artist": "Toto", "title": "Africa"}
-ytsearch1:Toto - Africa
-#EXTINF:-1,Aerosmith - Dream On
-#EXTDJ:{"artist": "Aerosmith", "title": "Dream On"}
-ytsearch1:Aerosmith - Dream On
-#EXTINF:-1,AC/DC - Highway to Hell
-#EXTDJ:{"artist": "AC/DC", "title": "Highway to Hell"}
-ytsearch1:AC/DC - Highway to Hell
-#EXTINF:-1,AC/DC - Back in Black
-#EXTDJ:{"artist": "AC/DC", "title": "Back in Black"}
-ytsearch1:AC/DC - Back in Black
-#EXTINF:-1,Kiss - I Was Made for Lovin' You
-#EXTDJ:{"artist": "Kiss", "title": "I Was Made for Lovin' You"}
-ytsearch1:Kiss - I Was Made for Lovin' You
-#EXTINF:-1,Thin Lizzy - The Boys Are Back in Town
-#EXTDJ:{"artist": "Thin Lizzy", "title": "The Boys Are Back in Town"}
-ytsearch1:Thin Lizzy - The Boys Are Back in Town
-#EXTINF:-1,Nazareth - Love Hurts
-#EXTDJ:{"artist": "Nazareth", "title": "Love Hurts"}
-ytsearch1:Nazareth - Love Hurts
-#EXTINF:-1,Uriah Heep - July Morning
-#EXTDJ:{"artist": "Uriah Heep", "title": "July Morning"}
-ytsearch1:Uriah Heep - July Morning
-#EXTINF:-1,Scorpions - Wind of Change
-#EXTDJ:{"artist": "Scorpions", "title": "Wind of Change"}
-ytsearch1:Scorpions - Wind of Change
-#EXTINF:-1,Scorpions - Still Loving You
-#EXTDJ:{"artist": "Scorpions", "title": "Still Loving You"}
-ytsearch1:Scorpions - Still Loving You
-#EXTINF:-1,Santana - Black Magic Woman
-#EXTDJ:{"artist": "Santana", "title": "Black Magic Woman"}
-ytsearch1:Santana - Black Magic Woman
-#EXTINF:-1,Steppenwolf - Born to Be Wild
-#EXTDJ:{"artist": "Steppenwolf", "title": "Born to Be Wild"}
-ytsearch1:Steppenwolf - Born to Be Wild
-#EXTINF:-1,Blue Öyster Cult - (Don't Fear) The Reaper
-#EXTDJ:{"artist": "Blue Öyster Cult", "title": "(Don't Fear) The Reaper"}
-ytsearch1:Blue Öyster Cult - (Don't Fear) The Reaper
-#EXTINF:-1,Lou Reed - Walk on the Wild Side
-#EXTDJ:{"artist": "Lou Reed", "title": "Walk on the Wild Side"}
-ytsearch1:Lou Reed - Walk on the Wild Side
-#EXTINF:-1,Iggy Pop - The Passenger
-#EXTDJ:{"artist": "Iggy Pop", "title": "The Passenger"}
-ytsearch1:Iggy Pop - The Passenger
-#EXTINF:-1,The Police - Every Breath You Take
-#EXTDJ:{"artist": "The Police", "title": "Every Breath You Take"}
-ytsearch1:The Police - Every Breath You Take
-#EXTINF:-1,The Police - Roxanne
-#EXTDJ:{"artist": "The Police", "title": "Roxanne"}
-ytsearch1:The Police - Roxanne
-#EXTINF:-1,Mike Oldfield - Moonlight Shadow
-#EXTDJ:{"artist": "Mike Oldfield", "title": "Moonlight Shadow"}
-ytsearch1:Mike Oldfield - Moonlight Shadow
-#EXTINF:-1,Chris Rea - The Road to Hell
-#EXTDJ:{"artist": "Chris Rea", "title": "The Road to Hell"}
-ytsearch1:Chris Rea - The Road to Hell
-#EXTINF:-1,Joe Cocker - With a Little Help from My Friends
-#EXTDJ:{"artist": "Joe Cocker", "title": "With a Little Help from My Friends"}
-ytsearch1:Joe Cocker - With a Little Help from My Friends
-#EXTINF:-1,Joe Cocker - Unchain My Heart
-#EXTDJ:{"artist": "Joe Cocker", "title": "Unchain My Heart"}
-ytsearch1:Joe Cocker - Unchain My Heart
-#EXTINF:-1,Rod Stewart - Sailing
-#EXTDJ:{"artist": "Rod Stewart", "title": "Sailing"}
-ytsearch1:Rod Stewart - Sailing
-#EXTINF:-1,Billy Joel - Piano Man
-#EXTDJ:{"artist": "Billy Joel", "title": "Piano Man"}
-ytsearch1:Billy Joel - Piano Man
-#EXTINF:-1,John Lennon - Imagine
-#EXTDJ:{"artist": "John Lennon", "title": "Imagine"}
-ytsearch1:John Lennon - Imagine
-#EXTINF:-1,Paul McCartney & Wings - Live and Let Die
-#EXTDJ:{"artist": "Paul McCartney & Wings", "title": "Live and Let Die"}
-ytsearch1:Paul McCartney & Wings - Live and Let Die
-#EXTINF:-1,George Harrison - My Sweet Lord
-#EXTDJ:{"artist": "George Harrison", "title": "My Sweet Lord"}
-ytsearch1:George Harrison - My Sweet Lord
-#EXTINF:-1,Don McLean - American Pie
-#EXTDJ:{"artist": "Don McLean", "title": "American Pie"}
-ytsearch1:Don McLean - American Pie
-#EXTINF:-1,Don McLean - Vincent
-#EXTDJ:{"artist": "Don McLean", "title": "Vincent"}
-ytsearch1:Don McLean - Vincent
-#EXTINF:-1,America - A Horse with No Name
-#EXTDJ:{"artist": "America", "title": "A Horse with No Name"}
-ytsearch1:America - A Horse with No Name
-#EXTINF:-1,Gerry Rafferty - Baker Street
-#EXTDJ:{"artist": "Gerry Rafferty", "title": "Baker Street"}
-ytsearch1:Gerry Rafferty - Baker Street
-#EXTINF:-1,10cc - I'm Not in Love
-#EXTDJ:{"artist": "10cc", "title": "I'm Not in Love"}
-ytsearch1:10cc - I'm Not in Love
-#EXTINF:-1,Smokie - Living Next Door to Alice
-#EXTDJ:{"artist": "Smokie", "title": "Living Next Door to Alice"}
-ytsearch1:Smokie - Living Next Door to Alice
-#EXTINF:-1,Eruption - One Way Ticket
-#EXTDJ:{"artist": "Eruption", "title": "One Way Ticket"}
-ytsearch1:Eruption - One Way Ticket
+#EXTINF:228,Elton John - Your Song
+#EXTDJ:{"artist": "Elton John", "title": "Your Song", "vid_kind": "video"}
+https://www.youtube.com/watch?v=GlPlfCy1urI
+#EXTINF:405,Eagles - Hotel California
+#EXTDJ:{"artist": "Eagles", "title": "Hotel California", "vid_kind": "video"}
+https://www.youtube.com/watch?v=09839DpTctU
+#EXTINF:224,Fleetwood Mac - Go Your Own Way
+#EXTDJ:{"artist": "Fleetwood Mac", "title": "Go Your Own Way", "vid_kind": "video"}
+https://www.youtube.com/watch?v=DubafeFeJ7Y
+#EXTINF:284,Lynyrd Skynyrd - Sweet Home Alabama
+#EXTDJ:{"artist": "Lynyrd Skynyrd", "title": "Sweet Home Alabama", "vid_kind": "song"}
+https://www.youtube.com/watch?v=iL-jC7XyLeo
+#EXTINF:272,Eric Clapton - Tears in Heaven
+#EXTDJ:{"artist": "Eric Clapton", "title": "Tears in Heaven", "vid_kind": "song"}
+https://www.youtube.com/watch?v=VVqXLXMch9g
+#EXTINF:424,Derek and the Dominos - Layla
+#EXTDJ:{"artist": "Derek and the Dominos", "title": "Layla", "vid_kind": "song"}
+https://www.youtube.com/watch?v=TngViNw2pOo
+#EXTINF:270,Bruce Springsteen - Born to Run
+#EXTDJ:{"artist": "Bruce Springsteen", "title": "Born to Run", "vid_kind": "song"}
+https://www.youtube.com/watch?v=Wu4_zVxmufY
+#EXTINF:187,Neil Young - Heart of Gold
+#EXTDJ:{"artist": "Neil Young", "title": "Heart of Gold", "vid_kind": "song"}
+https://www.youtube.com/watch?v=X3IA6pIVank
+#EXTINF:348,Dire Straits - Sultans of Swing
+#EXTDJ:{"artist": "Dire Straits", "title": "Sultans of Swing", "vid_kind": "song"}
+https://www.youtube.com/watch?v=cF3OWCYLLVQ
+#EXTINF:505,Dire Straits - Money for Nothing
+#EXTDJ:{"artist": "Dire Straits", "title": "Money for Nothing", "vid_kind": "song"}
+https://www.youtube.com/watch?v=6K6ODTZ7c10
+#EXTINF:250,Supertramp - The Logical Song
+#EXTDJ:{"artist": "Supertramp", "title": "The Logical Song", "vid_kind": "song"}
+https://www.youtube.com/watch?v=low6Coqrw9Y
+#EXTINF:302,Electric Light Orchestra - Mr. Blue Sky
+#EXTDJ:{"artist": "Electric Light Orchestra", "title": "Mr. Blue Sky", "vid_kind": "song"}
+https://www.youtube.com/watch?v=wuJIqmha2Hk
+#EXTINF:511,Yes - Roundabout
+#EXTDJ:{"artist": "Yes", "title": "Roundabout", "vid_kind": "song"}
+https://www.youtube.com/watch?v=LuGAWR2eRyQ
+#EXTINF:401,King Crimson - 21st Century Schizoid Man
+#EXTDJ:{"artist": "King Crimson", "title": "21st Century Schizoid Man", "vid_kind": "song"}
+https://www.youtube.com/watch?v=fG3RTQjA1sg
+#EXTINF:266,Jethro Tull - Locomotive Breath
+#EXTDJ:{"artist": "Jethro Tull", "title": "Locomotive Breath", "vid_kind": "song"}
+https://www.youtube.com/watch?v=OyyQ2XRPOnI
+#EXTINF:323,Kansas - Carry On Wayward Son
+#EXTDJ:{"artist": "Kansas", "title": "Carry On Wayward Son", "vid_kind": "song"}
+https://www.youtube.com/watch?v=tz6u9suVNlY
+#EXTINF:206,Kansas - Dust in the Wind
+#EXTDJ:{"artist": "Kansas", "title": "Dust in the Wind", "vid_kind": "song"}
+https://www.youtube.com/watch?v=9fNrJMkTWEE
+#EXTINF:250,Journey - Don't Stop Believin'
+#EXTDJ:{"artist": "Journey", "title": "Don't Stop Believin'", "vid_kind": "song"}
+https://www.youtube.com/watch?v=mM3Vmn4pdog
+#EXTINF:296,Toto - Africa
+#EXTDJ:{"artist": "Toto", "title": "Africa", "vid_kind": "song"}
+https://www.youtube.com/watch?v=QAo_Ycocl1E
+#EXTINF:268,Aerosmith - Dream On
+#EXTDJ:{"artist": "Aerosmith", "title": "Dream On", "vid_kind": "song"}
+https://www.youtube.com/watch?v=NZdLPtDLH9U
+#EXTINF:208,AC/DC - Highway to Hell
+#EXTDJ:{"artist": "AC/DC", "title": "Highway to Hell", "vid_kind": "song"}
+https://www.youtube.com/watch?v=ikFFVfObwss
+#EXTINF:255,AC/DC - Back in Black
+#EXTDJ:{"artist": "AC/DC", "title": "Back in Black", "vid_kind": "song"}
+https://www.youtube.com/watch?v=9vWNauaZAgg
+#EXTINF:271,Kiss - I Was Made for Lovin' You
+#EXTDJ:{"artist": "Kiss", "title": "I Was Made for Lovin' You", "vid_kind": "song"}
+https://www.youtube.com/watch?v=12fJAnaif34
+#EXTINF:266,Thin Lizzy - The Boys Are Back in Town
+#EXTDJ:{"artist": "Thin Lizzy", "title": "The Boys Are Back in Town", "vid_kind": "song"}
+https://www.youtube.com/watch?v=56b4TTT609c
+#EXTINF:233,Nazareth - Love Hurts
+#EXTDJ:{"artist": "Nazareth", "title": "Love Hurts", "vid_kind": "song"}
+https://www.youtube.com/watch?v=vOn0z0IRVN8
+#EXTINF:635,Uriah Heep - July Morning
+#EXTDJ:{"artist": "Uriah Heep", "title": "July Morning", "vid_kind": "song"}
+https://www.youtube.com/watch?v=8rZ_BkbbfRg
+#EXTINF:312,Scorpions - Wind of Change
+#EXTDJ:{"artist": "Scorpions", "title": "Wind of Change", "vid_kind": "song"}
+https://www.youtube.com/watch?v=Ukh1zoiV304
+#EXTINF:389,Scorpions - Still Loving You
+#EXTDJ:{"artist": "Scorpions", "title": "Still Loving You", "vid_kind": "song"}
+https://www.youtube.com/watch?v=vJrYN-_BXws
+#EXTINF:320,Santana - Black Magic Woman
+#EXTDJ:{"artist": "Santana", "title": "Black Magic Woman", "vid_kind": "song"}
+https://www.youtube.com/watch?v=I_SOAdAxFfo
+#EXTINF:210,Steppenwolf - Born to Be Wild
+#EXTDJ:{"artist": "Steppenwolf", "title": "Born to Be Wild", "vid_kind": "song"}
+https://www.youtube.com/watch?v=93fAJe8WVjA
+#EXTINF:308,Blue Öyster Cult - (Don't Fear) The Reaper
+#EXTDJ:{"artist": "Blue Öyster Cult", "title": "(Don't Fear) The Reaper", "vid_kind": "song"}
+https://www.youtube.com/watch?v=FS8p_F0Stog
+#EXTINF:254,Lou Reed - Walk on the Wild Side
+#EXTDJ:{"artist": "Lou Reed", "title": "Walk on the Wild Side", "vid_kind": "song"}
+https://www.youtube.com/watch?v=Qu6F-mMAQhk
+#EXTINF:283,Iggy Pop - The Passenger
+#EXTDJ:{"artist": "Iggy Pop", "title": "The Passenger", "vid_kind": "song"}
+https://www.youtube.com/watch?v=1r08Ca8fk5Y
+#EXTINF:254,The Police - Every Breath You Take
+#EXTDJ:{"artist": "The Police", "title": "Every Breath You Take", "vid_kind": "song"}
+https://www.youtube.com/watch?v=-SaUrDhp034
+#EXTINF:192,The Police - Roxanne
+#EXTDJ:{"artist": "The Police", "title": "Roxanne", "vid_kind": "song"}
+https://www.youtube.com/watch?v=fZheUzgIFEk
+#EXTINF:219,Mike Oldfield - Moonlight Shadow
+#EXTDJ:{"artist": "Mike Oldfield", "title": "Moonlight Shadow", "vid_kind": "song"}
+https://www.youtube.com/watch?v=9uYF95jR_ME
+#EXTINF:270,Chris Rea - The Road to Hell
+#EXTDJ:{"artist": "Chris Rea", "title": "The Road to Hell", "vid_kind": "song"}
+https://www.youtube.com/watch?v=u1ygTDu9aJs
+#EXTINF:312,Joe Cocker - With a Little Help from My Friends
+#EXTDJ:{"artist": "Joe Cocker", "title": "With a Little Help from My Friends", "vid_kind": "song"}
+https://www.youtube.com/watch?v=eXV4WyQMHFM
+#EXTINF:308,Joe Cocker - Unchain My Heart
+#EXTDJ:{"artist": "Joe Cocker", "title": "Unchain My Heart", "vid_kind": "song"}
+https://www.youtube.com/watch?v=vYuhA1rQkaM
+#EXTINF:278,Rod Stewart - Sailing
+#EXTDJ:{"artist": "Rod Stewart", "title": "Sailing", "vid_kind": "song"}
+https://www.youtube.com/watch?v=KKof4Ikj5vg
+#EXTINF:339,Billy Joel - Piano Man
+#EXTDJ:{"artist": "Billy Joel", "title": "Piano Man", "vid_kind": "song"}
+https://www.youtube.com/watch?v=LLbew85exp0
+#EXTINF:188,John Lennon - Imagine
+#EXTDJ:{"artist": "John Lennon", "title": "Imagine", "vid_kind": "song"}
+https://www.youtube.com/watch?v=rAn-AWXtHv0
+#EXTINF:194,Paul McCartney & Wings - Live and Let Die
+#EXTDJ:{"artist": "Paul McCartney & Wings", "title": "Live and Let Die", "vid_kind": "song"}
+https://www.youtube.com/watch?v=08saJgLmytU
+#EXTINF:281,George Harrison - My Sweet Lord
+#EXTDJ:{"artist": "George Harrison", "title": "My Sweet Lord", "vid_kind": "song"}
+https://www.youtube.com/watch?v=6wHBsMoHFWs
+#EXTINF:517,Don McLean - American Pie
+#EXTDJ:{"artist": "Don McLean", "title": "American Pie", "vid_kind": "song"}
+https://www.youtube.com/watch?v=iX_TFkut1PM
+#EXTINF:243,Don McLean - Vincent
+#EXTDJ:{"artist": "Don McLean", "title": "Vincent", "vid_kind": "song"}
+https://www.youtube.com/watch?v=ciLNMesqPh0
+#EXTINF:252,America - A Horse with No Name
+#EXTDJ:{"artist": "America", "title": "A Horse with No Name", "vid_kind": "song"}
+https://www.youtube.com/watch?v=mSZXWdKSQNM
+#EXTINF:366,Gerry Rafferty - Baker Street
+#EXTDJ:{"artist": "Gerry Rafferty", "title": "Baker Street", "vid_kind": "song"}
+https://www.youtube.com/watch?v=6tynWSAesAo
+#EXTINF:367,10cc - I'm Not in Love
+#EXTDJ:{"artist": "10cc", "title": "I'm Not in Love", "vid_kind": "song"}
+https://www.youtube.com/watch?v=PC2HkP5gR2g
+#EXTINF:207,Smokie - Living Next Door to Alice
+#EXTDJ:{"artist": "Smokie", "title": "Living Next Door to Alice", "vid_kind": "song"}
+https://www.youtube.com/watch?v=Y-2RL0tekLY
+#EXTINF:213,Eruption - One Way Ticket
+#EXTDJ:{"artist": "Eruption", "title": "One Way Ticket", "vid_kind": "song"}
+https://www.youtube.com/watch?v=O1k9ZVU4S8A
 # --- Панк, пост-панк, новая волна ---
-#EXTINF:-1,Ramones - Blitzkrieg Bop
-#EXTDJ:{"artist": "Ramones", "title": "Blitzkrieg Bop"}
-ytsearch1:Ramones - Blitzkrieg Bop
-#EXTINF:-1,Sex Pistols - Anarchy in the U.K.
-#EXTDJ:{"artist": "Sex Pistols", "title": "Anarchy in the U.K."}
-ytsearch1:Sex Pistols - Anarchy in the U.K.
-#EXTINF:-1,Sex Pistols - God Save the Queen
-#EXTDJ:{"artist": "Sex Pistols", "title": "God Save the Queen"}
-ytsearch1:Sex Pistols - God Save the Queen
-#EXTINF:-1,The Clash - London Calling
-#EXTDJ:{"artist": "The Clash", "title": "London Calling"}
-ytsearch1:The Clash - London Calling
-#EXTINF:-1,The Clash - Should I Stay or Should I Go
-#EXTDJ:{"artist": "The Clash", "title": "Should I Stay or Should I Go"}
-ytsearch1:The Clash - Should I Stay or Should I Go
-#EXTINF:-1,The Stooges - I Wanna Be Your Dog
-#EXTDJ:{"artist": "The Stooges", "title": "I Wanna Be Your Dog"}
-ytsearch1:The Stooges - I Wanna Be Your Dog
-#EXTINF:-1,Joy Division - Love Will Tear Us Apart
-#EXTDJ:{"artist": "Joy Division", "title": "Love Will Tear Us Apart"}
-ytsearch1:Joy Division - Love Will Tear Us Apart
-#EXTINF:-1,New Order - Blue Monday
-#EXTDJ:{"artist": "New Order", "title": "Blue Monday"}
-ytsearch1:New Order - Blue Monday
-#EXTINF:-1,The Cure - Friday I'm in Love
-#EXTDJ:{"artist": "The Cure", "title": "Friday I'm in Love"}
-ytsearch1:The Cure - Friday I'm in Love
-#EXTINF:-1,The Cure - Boys Don't Cry
-#EXTDJ:{"artist": "The Cure", "title": "Boys Don't Cry"}
-ytsearch1:The Cure - Boys Don't Cry
-#EXTINF:-1,The Smiths - There Is a Light That Never Goes Out
-#EXTDJ:{"artist": "The Smiths", "title": "There Is a Light That Never Goes Out"}
-ytsearch1:The Smiths - There Is a Light That Never Goes Out
-#EXTINF:-1,The Smiths - This Charming Man
-#EXTDJ:{"artist": "The Smiths", "title": "This Charming Man"}
-ytsearch1:The Smiths - This Charming Man
-#EXTINF:-1,Bauhaus - Bela Lugosi's Dead
-#EXTDJ:{"artist": "Bauhaus", "title": "Bela Lugosi's Dead"}
-ytsearch1:Bauhaus - Bela Lugosi's Dead
-#EXTINF:-1,Echo & the Bunnymen - The Killing Moon
-#EXTDJ:{"artist": "Echo & the Bunnymen", "title": "The Killing Moon"}
-ytsearch1:Echo & the Bunnymen - The Killing Moon
-#EXTINF:-1,Talking Heads - Psycho Killer
-#EXTDJ:{"artist": "Talking Heads", "title": "Psycho Killer"}
-ytsearch1:Talking Heads - Psycho Killer
-#EXTINF:-1,Talking Heads - Once in a Lifetime
-#EXTDJ:{"artist": "Talking Heads", "title": "Once in a Lifetime"}
-ytsearch1:Talking Heads - Once in a Lifetime
-#EXTINF:-1,Blondie - Heart of Glass
-#EXTDJ:{"artist": "Blondie", "title": "Heart of Glass"}
-ytsearch1:Blondie - Heart of Glass
-#EXTINF:-1,Blondie - Call Me
-#EXTDJ:{"artist": "Blondie", "title": "Call Me"}
-ytsearch1:Blondie - Call Me
-#EXTINF:-1,Patti Smith - Because the Night
-#EXTDJ:{"artist": "Patti Smith", "title": "Because the Night"}
-ytsearch1:Patti Smith - Because the Night
-#EXTINF:-1,The B-52's - Love Shack
-#EXTDJ:{"artist": "The B-52's", "title": "Love Shack"}
-ytsearch1:The B-52's - Love Shack
-#EXTINF:-1,Pixies - Where Is My Mind?
-#EXTDJ:{"artist": "Pixies", "title": "Where Is My Mind?"}
-ytsearch1:Pixies - Where Is My Mind?
-#EXTINF:-1,Nick Cave and the Bad Seeds - Red Right Hand
-#EXTDJ:{"artist": "Nick Cave and the Bad Seeds", "title": "Red Right Hand"}
-ytsearch1:Nick Cave and the Bad Seeds - Red Right Hand
-#EXTINF:-1,Nick Cave & Kylie Minogue - Where the Wild Roses Grow
-#EXTDJ:{"artist": "Nick Cave & Kylie Minogue", "title": "Where the Wild Roses Grow"}
-ytsearch1:Nick Cave & Kylie Minogue - Where the Wild Roses Grow
-#EXTINF:-1,The Sisters of Mercy - Temple of Love
-#EXTDJ:{"artist": "The Sisters of Mercy", "title": "Temple of Love"}
-ytsearch1:The Sisters of Mercy - Temple of Love
-#EXTINF:-1,The Stranglers - Golden Brown
-#EXTDJ:{"artist": "The Stranglers", "title": "Golden Brown"}
-ytsearch1:The Stranglers - Golden Brown
-#EXTINF:-1,Billy Idol - Rebel Yell
-#EXTDJ:{"artist": "Billy Idol", "title": "Rebel Yell"}
-ytsearch1:Billy Idol - Rebel Yell
-#EXTINF:-1,The Pogues - Fairytale of New York
-#EXTDJ:{"artist": "The Pogues", "title": "Fairytale of New York"}
-ytsearch1:The Pogues - Fairytale of New York
-#EXTINF:-1,Dropkick Murphys - I'm Shipping Up to Boston
-#EXTDJ:{"artist": "Dropkick Murphys", "title": "I'm Shipping Up to Boston"}
-ytsearch1:Dropkick Murphys - I'm Shipping Up to Boston
+#EXTINF:134,Ramones - Blitzkrieg Bop
+#EXTDJ:{"artist": "Ramones", "title": "Blitzkrieg Bop", "vid_kind": "song"}
+https://www.youtube.com/watch?v=skdE0KAFCEA
+#EXTINF:212,Sex Pistols - Anarchy in the U.K.
+#EXTDJ:{"artist": "Sex Pistols", "title": "Anarchy in the U.K.", "vid_kind": "song"}
+https://www.youtube.com/watch?v=YJRnwaEUNkM
+#EXTINF:199,Sex Pistols - God Save the Queen
+#EXTDJ:{"artist": "Sex Pistols", "title": "God Save the Queen", "vid_kind": "song"}
+https://www.youtube.com/watch?v=nE-AXzHFT1U
+#EXTINF:200,The Clash - London Calling
+#EXTDJ:{"artist": "The Clash", "title": "London Calling", "vid_kind": "song"}
+https://www.youtube.com/watch?v=XN7iEFVLf5c
+#EXTINF:189,The Clash - Should I Stay or Should I Go
+#EXTDJ:{"artist": "The Clash", "title": "Should I Stay or Should I Go", "vid_kind": "song"}
+https://www.youtube.com/watch?v=wjZMcWaniA4
+#EXTINF:189,The Stooges - I Wanna Be Your Dog
+#EXTDJ:{"artist": "The Stooges", "title": "I Wanna Be Your Dog", "vid_kind": "song"}
+https://www.youtube.com/watch?v=3gsWt7ey6bo
+#EXTINF:208,Joy Division - Love Will Tear Us Apart
+#EXTDJ:{"artist": "Joy Division", "title": "Love Will Tear Us Apart", "vid_kind": "song"}
+https://www.youtube.com/watch?v=aYCshYyFzls
+#EXTINF:452,New Order - Blue Monday
+#EXTDJ:{"artist": "New Order", "title": "Blue Monday", "vid_kind": "song"}
+https://www.youtube.com/watch?v=R1MBI2tSHe0
+#EXTINF:215,The Cure - Friday I'm in Love
+#EXTDJ:{"artist": "The Cure", "title": "Friday I'm in Love", "vid_kind": "video"}
+https://www.youtube.com/watch?v=mGgMZpGYiy8
+#EXTINF:156,The Cure - Boys Don't Cry
+#EXTDJ:{"artist": "The Cure", "title": "Boys Don't Cry", "vid_kind": "song"}
+https://www.youtube.com/watch?v=4KLVnmChtIE
+#EXTINF:243,The Smiths - There Is a Light That Never Goes Out
+#EXTDJ:{"artist": "The Smiths", "title": "There Is a Light That Never Goes Out", "vid_kind": "song"}
+https://www.youtube.com/watch?v=Wy5HTaOZ6EA
+#EXTINF:163,The Smiths - This Charming Man
+#EXTDJ:{"artist": "The Smiths", "title": "This Charming Man", "vid_kind": "song"}
+https://www.youtube.com/watch?v=OYYZFx7_DS8
+#EXTINF:577,Bauhaus - Bela Lugosi's Dead
+#EXTDJ:{"artist": "Bauhaus", "title": "Bela Lugosi's Dead", "vid_kind": "song"}
+https://www.youtube.com/watch?v=Yy9h2q_dr9k
+#EXTINF:348,Echo & the Bunnymen - The Killing Moon
+#EXTDJ:{"artist": "Echo & the Bunnymen", "title": "The Killing Moon", "vid_kind": "song"}
+https://www.youtube.com/watch?v=aVD1HRV8NqA
+#EXTINF:260,Talking Heads - Psycho Killer
+#EXTDJ:{"artist": "Talking Heads", "title": "Psycho Killer", "vid_kind": "song"}
+https://www.youtube.com/watch?v=NyaOYfpq9Fc
+#EXTINF:260,Talking Heads - Once in a Lifetime
+#EXTDJ:{"artist": "Talking Heads", "title": "Once in a Lifetime", "vid_kind": "song"}
+https://www.youtube.com/watch?v=CHatn3_UxEU
+#EXTINF:253,Blondie - Heart of Glass
+#EXTDJ:{"artist": "Blondie", "title": "Heart of Glass", "vid_kind": "song"}
+https://www.youtube.com/watch?v=A4MrL7ncX9M
+#EXTINF:212,Blondie - Call Me
+#EXTDJ:{"artist": "Blondie", "title": "Call Me", "vid_kind": "song"}
+https://www.youtube.com/watch?v=tykf2xYPNdc
+#EXTINF:205,Patti Smith - Because the Night
+#EXTDJ:{"artist": "Patti Smith", "title": "Because the Night", "vid_kind": "song"}
+https://www.youtube.com/watch?v=wDlKTQ3Ig7A
+#EXTINF:321,The B-52's - Love Shack
+#EXTDJ:{"artist": "The B-52's", "title": "Love Shack", "vid_kind": "song"}
+https://www.youtube.com/watch?v=LXZFtJceQC4
+#EXTINF:229,Pixies - Where Is My Mind?
+#EXTDJ:{"artist": "Pixies", "title": "Where Is My Mind?", "vid_kind": "song"}
+https://www.youtube.com/watch?v=49FB9hhoO6c
+#EXTINF:371,Nick Cave and the Bad Seeds - Red Right Hand
+#EXTDJ:{"artist": "Nick Cave and the Bad Seeds", "title": "Red Right Hand", "vid_kind": "song"}
+https://www.youtube.com/watch?v=lBVFdSFV2lQ
+#EXTINF:237,Nick Cave & Kylie Minogue - Where the Wild Roses Grow
+#EXTDJ:{"artist": "Nick Cave & Kylie Minogue", "title": "Where the Wild Roses Grow", "vid_kind": "song"}
+https://www.youtube.com/watch?v=1e_t8npRGQo
+#EXTINF:488,The Sisters of Mercy - Temple of Love
+#EXTDJ:{"artist": "The Sisters of Mercy", "title": "Temple of Love", "vid_kind": "song"}
+https://www.youtube.com/watch?v=wWEY0dh1sgU
+#EXTINF:207,The Stranglers - Golden Brown
+#EXTDJ:{"artist": "The Stranglers", "title": "Golden Brown", "vid_kind": "song"}
+https://www.youtube.com/watch?v=UZJFFStQemI
+#EXTINF:289,Billy Idol - Rebel Yell
+#EXTDJ:{"artist": "Billy Idol", "title": "Rebel Yell", "vid_kind": "song"}
+https://www.youtube.com/watch?v=seHlHzYpWBU
+#EXTINF:272,The Pogues - Fairytale of New York
+#EXTDJ:{"artist": "The Pogues", "title": "Fairytale of New York", "vid_kind": "song"}
+https://www.youtube.com/watch?v=YBM156DuxvA
+#EXTINF:154,Dropkick Murphys - I'm Shipping Up to Boston
+#EXTDJ:{"artist": "Dropkick Murphys", "title": "I'm Shipping Up to Boston", "vid_kind": "song"}
+https://www.youtube.com/watch?v=pMgHX2dhVlE
 # --- Поп 80-х ---
-#EXTINF:-1,Michael Jackson - Billie Jean
-#EXTDJ:{"artist": "Michael Jackson", "title": "Billie Jean"}
-ytsearch1:Michael Jackson - Billie Jean
-#EXTINF:-1,Michael Jackson - Beat It
-#EXTDJ:{"artist": "Michael Jackson", "title": "Beat It"}
-ytsearch1:Michael Jackson - Beat It
-#EXTINF:-1,Michael Jackson - Thriller
-#EXTDJ:{"artist": "Michael Jackson", "title": "Thriller"}
-ytsearch1:Michael Jackson - Thriller
-#EXTINF:-1,Michael Jackson - Smooth Criminal
-#EXTDJ:{"artist": "Michael Jackson", "title": "Smooth Criminal"}
-ytsearch1:Michael Jackson - Smooth Criminal
-#EXTINF:-1,Madonna - Like a Prayer
-#EXTDJ:{"artist": "Madonna", "title": "Like a Prayer"}
-ytsearch1:Madonna - Like a Prayer
-#EXTINF:-1,Madonna - Material Girl
-#EXTDJ:{"artist": "Madonna", "title": "Material Girl"}
-ytsearch1:Madonna - Material Girl
-#EXTINF:-1,Madonna - La Isla Bonita
-#EXTDJ:{"artist": "Madonna", "title": "La Isla Bonita"}
-ytsearch1:Madonna - La Isla Bonita
-#EXTINF:-1,Madonna - Vogue
-#EXTDJ:{"artist": "Madonna", "title": "Vogue"}
-ytsearch1:Madonna - Vogue
-#EXTINF:-1,Prince - Purple Rain
-#EXTDJ:{"artist": "Prince", "title": "Purple Rain"}
-ytsearch1:Prince - Purple Rain
-#EXTINF:-1,Whitney Houston - I Wanna Dance with Somebody
-#EXTDJ:{"artist": "Whitney Houston", "title": "I Wanna Dance with Somebody"}
-ytsearch1:Whitney Houston - I Wanna Dance with Somebody
-#EXTINF:-1,Whitney Houston - I Will Always Love You
-#EXTDJ:{"artist": "Whitney Houston", "title": "I Will Always Love You"}
-ytsearch1:Whitney Houston - I Will Always Love You
-#EXTINF:-1,Cyndi Lauper - Girls Just Want to Have Fun
-#EXTDJ:{"artist": "Cyndi Lauper", "title": "Girls Just Want to Have Fun"}
-ytsearch1:Cyndi Lauper - Girls Just Want to Have Fun
-#EXTINF:-1,a-ha - Take On Me
-#EXTDJ:{"artist": "a-ha", "title": "Take On Me"}
-ytsearch1:a-ha - Take On Me
-#EXTINF:-1,Tears for Fears - Everybody Wants to Rule the World
-#EXTDJ:{"artist": "Tears for Fears", "title": "Everybody Wants to Rule the World"}
-ytsearch1:Tears for Fears - Everybody Wants to Rule the World
-#EXTINF:-1,Eurythmics - Sweet Dreams (Are Made of This)
-#EXTDJ:{"artist": "Eurythmics", "title": "Sweet Dreams (Are Made of This)"}
-ytsearch1:Eurythmics - Sweet Dreams (Are Made of This)
-#EXTINF:-1,Duran Duran - Hungry Like the Wolf
-#EXTDJ:{"artist": "Duran Duran", "title": "Hungry Like the Wolf"}
-ytsearch1:Duran Duran - Hungry Like the Wolf
-#EXTINF:-1,Pet Shop Boys - West End Girls
-#EXTDJ:{"artist": "Pet Shop Boys", "title": "West End Girls"}
-ytsearch1:Pet Shop Boys - West End Girls
-#EXTINF:-1,Culture Club - Karma Chameleon
-#EXTDJ:{"artist": "Culture Club", "title": "Karma Chameleon"}
-ytsearch1:Culture Club - Karma Chameleon
-#EXTINF:-1,Wham! - Last Christmas
-#EXTDJ:{"artist": "Wham!", "title": "Last Christmas"}
-ytsearch1:Wham! - Last Christmas
-#EXTINF:-1,George Michael - Careless Whisper
-#EXTDJ:{"artist": "George Michael", "title": "Careless Whisper"}
-ytsearch1:George Michael - Careless Whisper
-#EXTINF:-1,Simple Minds - Don't You (Forget About Me)
-#EXTDJ:{"artist": "Simple Minds", "title": "Don't You (Forget About Me)"}
-ytsearch1:Simple Minds - Don't You (Forget About Me)
-#EXTINF:-1,Soft Cell - Tainted Love
-#EXTDJ:{"artist": "Soft Cell", "title": "Tainted Love"}
-ytsearch1:Soft Cell - Tainted Love
-#EXTINF:-1,Rick Astley - Never Gonna Give You Up
-#EXTDJ:{"artist": "Rick Astley", "title": "Never Gonna Give You Up"}
-ytsearch1:Rick Astley - Never Gonna Give You Up
+#EXTINF:294,Michael Jackson - Billie Jean
+#EXTDJ:{"artist": "Michael Jackson", "title": "Billie Jean", "vid_kind": "song"}
+https://www.youtube.com/watch?v=7CTJcHjkq0E
+#EXTINF:258,Michael Jackson - Beat It
+#EXTDJ:{"artist": "Michael Jackson", "title": "Beat It", "vid_kind": "song"}
+https://www.youtube.com/watch?v=WlTlUseVt7E
+#EXTINF:358,Michael Jackson - Thriller
+#EXTDJ:{"artist": "Michael Jackson", "title": "Thriller", "vid_kind": "song"}
+https://www.youtube.com/watch?v=Z85lxckrtzg
+#EXTINF:258,Michael Jackson - Smooth Criminal
+#EXTDJ:{"artist": "Michael Jackson", "title": "Smooth Criminal", "vid_kind": "song"}
+https://www.youtube.com/watch?v=XzNWRmqibNE
+#EXTINF:341,Madonna - Like a Prayer
+#EXTDJ:{"artist": "Madonna", "title": "Like a Prayer", "vid_kind": "song"}
+https://www.youtube.com/watch?v=ilottRbDnGY
+#EXTINF:241,Madonna - Material Girl
+#EXTDJ:{"artist": "Madonna", "title": "Material Girl", "vid_kind": "song"}
+https://www.youtube.com/watch?v=IlPCW6nLheM
+#EXTINF:243,Madonna - La Isla Bonita
+#EXTDJ:{"artist": "Madonna", "title": "La Isla Bonita", "vid_kind": "song"}
+https://www.youtube.com/watch?v=JZZWHnK6piM
+#EXTINF:317,Madonna - Vogue
+#EXTDJ:{"artist": "Madonna", "title": "Vogue", "vid_kind": "song"}
+https://www.youtube.com/watch?v=QJ1LOC_4n0g
+#EXTINF:522,Prince - Purple Rain
+#EXTDJ:{"artist": "Prince", "title": "Purple Rain", "vid_kind": "song"}
+https://www.youtube.com/watch?v=347vCib_lMs
+#EXTINF:291,Whitney Houston - I Wanna Dance with Somebody
+#EXTDJ:{"artist": "Whitney Houston", "title": "I Wanna Dance with Somebody", "vid_kind": "song"}
+https://www.youtube.com/watch?v=6xzN8Nt0Pok
+#EXTINF:264,Whitney Houston - I Will Always Love You
+#EXTDJ:{"artist": "Whitney Houston", "title": "I Will Always Love You", "vid_kind": "song"}
+https://www.youtube.com/watch?v=m4QZL7whs10
+#EXTINF:238,Cyndi Lauper - Girls Just Want to Have Fun
+#EXTDJ:{"artist": "Cyndi Lauper", "title": "Girls Just Want to Have Fun", "vid_kind": "song"}
+https://www.youtube.com/watch?v=gvLMhpzYic0
+#EXTINF:225,a-ha - Take On Me
+#EXTDJ:{"artist": "a-ha", "title": "Take On Me", "vid_kind": "song"}
+https://www.youtube.com/watch?v=HzdD8kbDzZA
+#EXTINF:251,Tears for Fears - Everybody Wants to Rule the World
+#EXTDJ:{"artist": "Tears for Fears", "title": "Everybody Wants to Rule the World", "vid_kind": "song"}
+https://www.youtube.com/watch?v=Y1-Qymcppps
+#EXTINF:217,Eurythmics - Sweet Dreams (Are Made of This)
+#EXTDJ:{"artist": "Eurythmics", "title": "Sweet Dreams (Are Made of This)", "vid_kind": "song"}
+https://www.youtube.com/watch?v=i5_asj1BGFs
+#EXTINF:210,Duran Duran - Hungry Like the Wolf
+#EXTDJ:{"artist": "Duran Duran", "title": "Hungry Like the Wolf", "vid_kind": "song"}
+https://www.youtube.com/watch?v=qumO-vBey2Q
+#EXTINF:286,Pet Shop Boys - West End Girls
+#EXTDJ:{"artist": "Pet Shop Boys", "title": "West End Girls", "vid_kind": "song"}
+https://www.youtube.com/watch?v=-G8KmNF-xc4
+#EXTINF:253,Culture Club - Karma Chameleon
+#EXTDJ:{"artist": "Culture Club", "title": "Karma Chameleon", "vid_kind": "song"}
+https://www.youtube.com/watch?v=S8Cv5XbG428
+#EXTINF:263,Wham! - Last Christmas
+#EXTDJ:{"artist": "Wham!", "title": "Last Christmas", "vid_kind": "song"}
+https://www.youtube.com/watch?v=GJvGf_ifiKw
+#EXTINF:392,George Michael - Careless Whisper
+#EXTDJ:{"artist": "George Michael", "title": "Careless Whisper", "vid_kind": "song"}
+https://www.youtube.com/watch?v=_u0zg4p9cV4
+#EXTINF:261,Simple Minds - Don't You (Forget About Me)
+#EXTDJ:{"artist": "Simple Minds", "title": "Don't You (Forget About Me)", "vid_kind": "song"}
+https://www.youtube.com/watch?v=Ly61QG9yWOc
+#EXTINF:154,Soft Cell - Tainted Love
+#EXTDJ:{"artist": "Soft Cell", "title": "Tainted Love", "vid_kind": "song"}
+https://www.youtube.com/watch?v=22mYcScS_88
+#EXTINF:213,Rick Astley - Never Gonna Give You Up
+#EXTDJ:{"artist": "Rick Astley", "title": "Never Gonna Give You Up", "vid_kind": "video"}
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
 #EXTINF:-1,Bonnie Tyler - Total Eclipse of the Heart
 #EXTDJ:{"artist": "Bonnie Tyler", "title": "Total Eclipse of the Heart"}
 ytsearch1:Bonnie Tyler - Total Eclipse of the Heart
 #EXTINF:-1,Phil Collins - In the Air Tonight
 #EXTDJ:{"artist": "Phil Collins", "title": "In the Air Tonight"}
 ytsearch1:Phil Collins - In the Air Tonight
-#EXTINF:-1,Peter Gabriel - Sledgehammer
-#EXTDJ:{"artist": "Peter Gabriel", "title": "Sledgehammer"}
-ytsearch1:Peter Gabriel - Sledgehammer
-#EXTINF:-1,Kate Bush - Running Up That Hill
-#EXTDJ:{"artist": "Kate Bush", "title": "Running Up That Hill"}
-ytsearch1:Kate Bush - Running Up That Hill
+#EXTINF:314,Peter Gabriel - Sledgehammer
+#EXTDJ:{"artist": "Peter Gabriel", "title": "Sledgehammer", "vid_kind": "song"}
+https://www.youtube.com/watch?v=GYiIzez8LrM
+#EXTINF:299,Kate Bush - Running Up That Hill
+#EXTDJ:{"artist": "Kate Bush", "title": "Running Up That Hill", "vid_kind": "song"}
+https://www.youtube.com/watch?v=D1Fw6CbGAX4
 #EXTINF:-1,Sade - Smooth Operator
 #EXTDJ:{"artist": "Sade", "title": "Smooth Operator"}
 ytsearch1:Sade - Smooth Operator
-#EXTINF:-1,Lionel Richie - Hello
-#EXTDJ:{"artist": "Lionel Richie", "title": "Hello"}
-ytsearch1:Lionel Richie - Hello
+#EXTINF:247,Lionel Richie - Hello
+#EXTDJ:{"artist": "Lionel Richie", "title": "Hello", "vid_kind": "song"}
+https://www.youtube.com/watch?v=-AkztddoOms
 #EXTINF:-1,Tina Turner - What's Love Got to Do with It
 #EXTDJ:{"artist": "Tina Turner", "title": "What's Love Got to Do with It"}
 ytsearch1:Tina Turner - What's Love Got to Do with It
-#EXTINF:-1,Bryan Adams - Summer of '69
-#EXTDJ:{"artist": "Bryan Adams", "title": "Summer of '69"}
-ytsearch1:Bryan Adams - Summer of '69
+#EXTINF:249,Bryan Adams - Summer of '69
+#EXTDJ:{"artist": "Bryan Adams", "title": "Summer of '69", "vid_kind": "video"}
+https://www.youtube.com/watch?v=1i0i5lG6Ojc
 #EXTINF:-1,Bon Jovi - Livin' on a Prayer
 #EXTDJ:{"artist": "Bon Jovi", "title": "Livin' on a Prayer"}
 ytsearch1:Bon Jovi - Livin' on a Prayer
@@ -1026,9 +1026,9 @@ ytsearch1:Europe - The Final Countdown
 #EXTINF:-1,Survivor - Eye of the Tiger
 #EXTDJ:{"artist": "Survivor", "title": "Eye of the Tiger"}
 ytsearch1:Survivor - Eye of the Tiger
-#EXTINF:-1,Cutting Crew - (I Just) Died in Your Arms
-#EXTDJ:{"artist": "Cutting Crew", "title": "(I Just) Died in Your Arms"}
-ytsearch1:Cutting Crew - (I Just) Died in Your Arms
+#EXTINF:271,Cutting Crew - (I Just) Died in Your Arms
+#EXTDJ:{"artist": "Cutting Crew", "title": "(I Just) Died in Your Arms", "vid_kind": "video"}
+https://www.youtube.com/watch?v=6dOwHzCHfgA
 #EXTINF:-1,Alphaville - Forever Young
 #EXTDJ:{"artist": "Alphaville", "title": "Forever Young"}
 ytsearch1:Alphaville - Forever Young
@@ -1041,9 +1041,9 @@ ytsearch1:Modern Talking - Cheri, Cheri Lady
 #EXTINF:-1,Sandra - Maria Magdalena
 #EXTDJ:{"artist": "Sandra", "title": "Maria Magdalena"}
 ytsearch1:Sandra - Maria Magdalena
-#EXTINF:-1,Opus - Live Is Life
-#EXTDJ:{"artist": "Opus", "title": "Live Is Life"}
-ytsearch1:Opus - Live Is Life
+#EXTINF:242,Opus - Live Is Life
+#EXTDJ:{"artist": "Opus", "title": "Live Is Life", "vid_kind": "song"}
+https://www.youtube.com/watch?v=iXa844Xa_FQ
 #EXTINF:-1,Falco - Rock Me Amadeus
 #EXTDJ:{"artist": "Falco", "title": "Rock Me Amadeus"}
 ytsearch1:Falco - Rock Me Amadeus
