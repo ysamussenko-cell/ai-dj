@@ -286,12 +286,13 @@ footer { font-size: 13px; color: var(--dim); }
           <h1>Диджей, который понимает настроение</h1>
         </div>
       </div>
-      <p class="lead" style="margin-top:14px">Плеер для Windows в духе классического Winamp. Напишите своими словами, что хочется послушать, — нейросеть соберёт плейлист, найдёт песни и клипы на YouTube и будет подстраиваться под ваши «зашло» и «мимо».</p>
+      <p class="lead" style="margin-top:14px">Плеер для Windows и Android в духе классического Winamp. Напишите своими словами, что хочется послушать, — нейросеть соберёт плейлист, найдёт песни и клипы на YouTube и будет подстраиваться под ваши «зашло» и «мимо».</p>
       <div class="ctrl">
         <a class="btn" id="dl" href="https://github.com/ysamussenko-cell/ai-dj/releases/latest"><span class="tri"></span><span>СКАЧАТЬ<small id="dlv">для Windows</small></span></a>
+        <a class="btn" id="dla" href="https://github.com/ysamussenko-cell/ai-dj/releases"><span class="tri"></span><span>СКАЧАТЬ<small id="dlav">для Android</small></span></a>
         <a class="knob" href="#feedback">ОТЗЫВ</a>
         <a class="knob" href="#skins">СКИНЫ</a>
-        <span class="meta">Windows 10/11 · 64 бит · ~106 МБ</span>
+        <span class="meta">Windows 10/11 · 64 бит · ~106 МБ<br>Android 8 и новее · обновляется само</span>
       </div>
       <p class="gift">В комплекте шесть плейлистов: плейлист Самуса (1001 песня), «1000 лучших песен человечества», «1000 песен 90-х», «1000 песен 2000-х», «1000 песен 2010-х» и «1000 песен 2020-х» — слушать можно и без ключа нейросети. Лишний — снимите галочку при установке.</p>
       <div class="pl10" aria-label="Исполнители в плейлисте Самуса">
@@ -459,6 +460,20 @@ fetch("https://api.github.com/repos/ysamussenko-cell/ai-dj/releases/latest").the
   if (!a) return;
   document.getElementById("dl").href = a.browser_download_url;
   document.getElementById("dlv").textContent = "для Windows · версия " + String(m.tag_name || "").replace(/^v/, "");
+}).catch(() => {});
+
+// Android — пререлизы «android-v0.1.N»: берём самый новый
+fetch("https://api.github.com/repos/ysamussenko-cell/ai-dj/releases?per_page=30").then(r => r.json()).then(list => {
+  let best = null;
+  for (const rel of list) {
+    const tag = rel.tag_name || "", a = (rel.assets || []).find(x => /\.apk$/i.test(x.name));
+    if (!tag.startsWith("android-v") || rel.draft || !a) continue;
+    const code = parseInt(tag.split(".").pop(), 10);
+    if (!best || code > best.code) best = { code, v: tag.replace("android-v", ""), url: a.browser_download_url };
+  }
+  if (!best) return;
+  document.getElementById("dla").href = best.url;
+  document.getElementById("dlav").textContent = "для Android · версия " + best.v;
 }).catch(() => {});
 
 // отзыв уходит в сервис сайта и складывается в хранилище
